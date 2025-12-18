@@ -1,0 +1,7 @@
+CaseStatusCode,CaseStatusDescription
+AO,Adult Other
+JA,Juv Arrest
+AA,Adult Arrest
+JO,Juv Other
+IC,Invest Cont
+CC,UNK

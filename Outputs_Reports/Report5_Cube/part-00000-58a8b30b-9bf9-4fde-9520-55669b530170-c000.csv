@@ -1,0 +1,3960 @@
+VictimDescent,VictimSex,VictimAge,Total
+,,,246416
+,,-2,7
+,,-1,25
+,,0,31214
+,,2,130
+,,3,164
+,,4,158
+,,5,184
+,,6,198
+,,7,199
+,,8,204
+,,9,240
+,,10,243
+,,11,400
+,,12,571
+,,13,745
+,,14,919
+,,15,1127
+,,16,1230
+,,17,1290
+,,18,1785
+,,19,2918
+,,20,3478
+,,21,4205
+,,22,4639
+,,23,4598
+,,24,5043
+,,25,5556
+,,26,5573
+,,27,5913
+,,28,6125
+,,29,6324
+,,30,6510
+,,31,6374
+,,32,6167
+,,33,5990
+,,34,5785
+,,35,6346
+,,36,5346
+,,37,5183
+,,38,4980
+,,39,4635
+,,40,4796
+,,41,4504
+,,42,4177
+,,43,3887
+,,44,3821
+,,45,3732
+,,46,3487
+,,47,3415
+,,48,3344
+,,49,3231
+,,50,3719
+,,51,3183
+,,52,3080
+,,53,3032
+,,54,2857
+,,55,2781
+,,56,2681
+,,57,2503
+,,58,2555
+,,59,2438
+,,60,2316
+,,61,2139
+,,62,2085
+,,63,1919
+,,64,1830
+,,65,1694
+,,66,1575
+,,67,1393
+,,68,1211
+,,69,1106
+,,70,983
+,,71,865
+,,72,880
+,,73,834
+,,74,690
+,,75,604
+,,76,555
+,,77,489
+,,78,451
+,,79,381
+,,80,368
+,,81,291
+,,82,258
+,,83,253
+,,84,164
+,,85,199
+,,86,162
+,,87,122
+,,88,100
+,,89,83
+,,90,86
+,,91,64
+,,92,45
+,,93,43
+,,94,30
+,,95,34
+,,96,26
+,,97,19
+,,98,27
+,,99,98
+,F,,108127
+,F,-2,1
+,F,-1,3
+,F,0,1134
+,F,2,59
+,F,3,88
+,F,4,93
+,F,5,109
+,F,6,107
+,F,7,120
+,F,8,120
+,F,9,137
+,F,10,154
+,F,11,259
+,F,12,377
+,F,13,480
+,F,14,566
+,F,15,715
+,F,16,769
+,F,17,753
+,F,18,952
+,F,19,1412
+,F,20,1657
+,F,21,1982
+,F,22,2316
+,F,23,2499
+,F,24,2846
+,F,25,3074
+,F,26,3014
+,F,27,3205
+,F,28,3368
+,F,29,3330
+,F,30,3393
+,F,31,3418
+,F,32,3272
+,F,33,3157
+,F,34,3026
+,F,35,2766
+,F,36,2663
+,F,37,2637
+,F,38,2485
+,F,39,2287
+,F,40,2302
+,F,41,2175
+,F,42,2089
+,F,43,1909
+,F,44,1894
+,F,45,1810
+,F,46,1595
+,F,47,1625
+,F,48,1618
+,F,49,1519
+,F,50,1563
+,F,51,1465
+,F,52,1402
+,F,53,1326
+,F,54,1309
+,F,55,1208
+,F,56,1143
+,F,57,1120
+,F,58,1134
+,F,59,1089
+,F,60,962
+,F,61,905
+,F,62,902
+,F,63,797
+,F,64,765
+,F,65,734
+,F,66,701
+,F,67,600
+,F,68,552
+,F,69,492
+,F,70,454
+,F,71,386
+,F,72,416
+,F,73,404
+,F,74,333
+,F,75,281
+,F,76,276
+,F,77,237
+,F,78,237
+,F,79,182
+,F,80,205
+,F,81,169
+,F,82,151
+,F,83,131
+,F,84,97
+,F,85,111
+,F,86,95
+,F,87,72
+,F,88,55
+,F,89,54
+,F,90,48
+,F,91,42
+,F,92,29
+,F,93,28
+,F,94,20
+,F,95,22
+,F,96,18
+,F,97,11
+,F,98,15
+,F,99,40
+,H,,39
+,H,7,1
+,H,18,1
+,H,21,3
+,H,22,3
+,H,24,1
+,H,25,2
+,H,26,1
+,H,27,4
+,H,29,2
+,H,31,2
+,H,32,1
+,H,35,3
+,H,37,1
+,H,39,1
+,H,41,2
+,H,42,1
+,H,43,1
+,H,44,1
+,H,45,1
+,H,49,1
+,H,58,2
+,H,64,1
+,H,66,1
+,H,68,1
+,H,83,1
+,M,,114729
+,M,-2,3
+,M,-1,3
+,M,0,8997
+,M,2,64
+,M,3,73
+,M,4,62
+,M,5,74
+,M,6,90
+,M,7,76
+,M,8,83
+,M,9,101
+,M,10,80
+,M,11,136
+,M,12,191
+,M,13,259
+,M,14,350
+,M,15,407
+,M,16,456
+,M,17,530
+,M,18,824
+,M,19,1133
+,M,20,1483
+,M,21,1687
+,M,22,1752
+,M,23,2059
+,M,24,2181
+,M,25,2459
+,M,26,2535
+,M,27,2685
+,M,28,2736
+,M,29,2968
+,M,30,3094
+,M,31,2935
+,M,32,2874
+,M,33,2812
+,M,34,2745
+,M,35,3569
+,M,36,2665
+,M,37,2537
+,M,38,2478
+,M,39,2332
+,M,40,2485
+,M,41,2315
+,M,42,2078
+,M,43,1964
+,M,44,1914
+,M,45,1916
+,M,46,1885
+,M,47,1785
+,M,48,1723
+,M,49,1699
+,M,50,2143
+,M,51,1712
+,M,52,1671
+,M,53,1698
+,M,54,1541
+,M,55,1565
+,M,56,1529
+,M,57,1375
+,M,58,1412
+,M,59,1345
+,M,60,1351
+,M,61,1229
+,M,62,1181
+,M,63,1119
+,M,64,1063
+,M,65,958
+,M,66,872
+,M,67,792
+,M,68,657
+,M,69,612
+,M,70,529
+,M,71,479
+,M,72,464
+,M,73,430
+,M,74,356
+,M,75,322
+,M,76,279
+,M,77,252
+,M,78,212
+,M,79,198
+,M,80,163
+,M,81,122
+,M,82,104
+,M,83,121
+,M,84,67
+,M,85,88
+,M,86,67
+,M,87,49
+,M,88,44
+,M,89,29
+,M,90,37
+,M,91,22
+,M,92,16
+,M,93,14
+,M,94,10
+,M,95,12
+,M,96,8
+,M,97,8
+,M,98,8
+,M,99,52
+,X,,23521
+,X,-2,3
+,X,-1,19
+,X,0,21083
+,X,2,7
+,X,3,3
+,X,4,3
+,X,5,1
+,X,6,1
+,X,7,2
+,X,8,1
+,X,9,2
+,X,10,9
+,X,11,5
+,X,12,3
+,X,13,6
+,X,14,3
+,X,15,5
+,X,16,5
+,X,17,7
+,X,18,8
+,X,19,373
+,X,20,338
+,X,21,533
+,X,22,568
+,X,23,40
+,X,24,15
+,X,25,21
+,X,26,23
+,X,27,19
+,X,28,21
+,X,29,24
+,X,30,23
+,X,31,19
+,X,32,20
+,X,33,21
+,X,34,14
+,X,35,8
+,X,36,18
+,X,37,8
+,X,38,17
+,X,39,15
+,X,40,9
+,X,41,12
+,X,42,9
+,X,43,13
+,X,44,12
+,X,45,5
+,X,46,7
+,X,47,5
+,X,48,3
+,X,49,12
+,X,50,13
+,X,51,6
+,X,52,7
+,X,53,8
+,X,54,7
+,X,55,8
+,X,56,9
+,X,57,8
+,X,58,7
+,X,59,4
+,X,60,3
+,X,61,5
+,X,62,2
+,X,63,3
+,X,64,1
+,X,65,2
+,X,66,1
+,X,67,1
+,X,68,1
+,X,69,2
+,X,74,1
+,X,75,1
+,X,78,2
+,X,79,1
+,X,82,3
+,X,87,1
+,X,88,1
+,X,90,1
+,X,93,1
+,X,98,4
+,X,99,6
+American Indian,,,261
+American Indian,,0,1
+American Indian,,5,1
+American Indian,,15,1
+American Indian,,19,6
+American Indian,,20,4
+American Indian,,21,8
+American Indian,,22,10
+American Indian,,23,9
+American Indian,,24,9
+American Indian,,25,10
+American Indian,,26,6
+American Indian,,27,7
+American Indian,,28,12
+American Indian,,29,12
+American Indian,,30,8
+American Indian,,31,5
+American Indian,,32,7
+American Indian,,33,6
+American Indian,,34,11
+American Indian,,35,6
+American Indian,,36,6
+American Indian,,37,9
+American Indian,,38,6
+American Indian,,39,6
+American Indian,,40,4
+American Indian,,41,7
+American Indian,,42,7
+American Indian,,43,7
+American Indian,,44,4
+American Indian,,45,4
+American Indian,,46,4
+American Indian,,47,5
+American Indian,,48,2
+American Indian,,49,3
+American Indian,,50,6
+American Indian,,51,3
+American Indian,,52,3
+American Indian,,53,5
+American Indian,,54,2
+American Indian,,55,2
+American Indian,,56,2
+American Indian,,57,3
+American Indian,,58,3
+American Indian,,59,2
+American Indian,,60,2
+American Indian,,61,2
+American Indian,,62,1
+American Indian,,63,2
+American Indian,,65,1
+American Indian,,66,1
+American Indian,,67,3
+American Indian,,69,1
+American Indian,,70,1
+American Indian,,72,1
+American Indian,,96,1
+American Indian,,99,1
+American Indian,F,,130
+American Indian,F,0,1
+American Indian,F,5,1
+American Indian,F,19,3
+American Indian,F,20,2
+American Indian,F,21,2
+American Indian,F,22,6
+American Indian,F,23,3
+American Indian,F,24,2
+American Indian,F,25,1
+American Indian,F,26,4
+American Indian,F,27,5
+American Indian,F,28,6
+American Indian,F,29,8
+American Indian,F,30,6
+American Indian,F,31,4
+American Indian,F,32,5
+American Indian,F,33,2
+American Indian,F,34,6
+American Indian,F,35,3
+American Indian,F,36,2
+American Indian,F,37,4
+American Indian,F,38,2
+American Indian,F,39,2
+American Indian,F,40,1
+American Indian,F,41,6
+American Indian,F,42,3
+American Indian,F,43,2
+American Indian,F,44,1
+American Indian,F,45,2
+American Indian,F,46,3
+American Indian,F,47,1
+American Indian,F,49,2
+American Indian,F,50,5
+American Indian,F,51,3
+American Indian,F,53,3
+American Indian,F,54,2
+American Indian,F,55,1
+American Indian,F,56,1
+American Indian,F,57,2
+American Indian,F,58,2
+American Indian,F,59,1
+American Indian,F,60,1
+American Indian,F,63,2
+American Indian,F,66,1
+American Indian,F,67,2
+American Indian,F,69,1
+American Indian,F,96,1
+American Indian,F,99,1
+American Indian,M,,130
+American Indian,M,15,1
+American Indian,M,19,3
+American Indian,M,20,2
+American Indian,M,21,6
+American Indian,M,22,4
+American Indian,M,23,6
+American Indian,M,24,7
+American Indian,M,25,9
+American Indian,M,26,2
+American Indian,M,27,2
+American Indian,M,28,6
+American Indian,M,29,4
+American Indian,M,30,2
+American Indian,M,31,1
+American Indian,M,32,2
+American Indian,M,33,4
+American Indian,M,34,5
+American Indian,M,35,3
+American Indian,M,36,4
+American Indian,M,37,5
+American Indian,M,38,4
+American Indian,M,39,4
+American Indian,M,40,3
+American Indian,M,41,1
+American Indian,M,42,4
+American Indian,M,43,4
+American Indian,M,44,3
+American Indian,M,45,2
+American Indian,M,46,1
+American Indian,M,47,4
+American Indian,M,48,2
+American Indian,M,49,1
+American Indian,M,50,1
+American Indian,M,52,3
+American Indian,M,53,2
+American Indian,M,55,1
+American Indian,M,56,1
+American Indian,M,57,1
+American Indian,M,58,1
+American Indian,M,59,1
+American Indian,M,60,1
+American Indian,M,61,2
+American Indian,M,62,1
+American Indian,M,65,1
+American Indian,M,67,1
+American Indian,M,70,1
+American Indian,M,72,1
+American Indian,X,,1
+American Indian,X,43,1
+Asian Indian,,,154
+Asian Indian,,17,1
+Asian Indian,,18,2
+Asian Indian,,19,1
+Asian Indian,,20,3
+Asian Indian,,21,4
+Asian Indian,,22,7
+Asian Indian,,23,5
+Asian Indian,,24,5
+Asian Indian,,25,4
+Asian Indian,,26,11
+Asian Indian,,27,3
+Asian Indian,,28,5
+Asian Indian,,29,2
+Asian Indian,,30,6
+Asian Indian,,31,4
+Asian Indian,,32,6
+Asian Indian,,33,8
+Asian Indian,,34,6
+Asian Indian,,35,7
+Asian Indian,,36,2
+Asian Indian,,37,4
+Asian Indian,,38,2
+Asian Indian,,39,4
+Asian Indian,,40,3
+Asian Indian,,41,4
+Asian Indian,,42,4
+Asian Indian,,43,2
+Asian Indian,,44,2
+Asian Indian,,45,2
+Asian Indian,,46,1
+Asian Indian,,47,2
+Asian Indian,,48,3
+Asian Indian,,49,2
+Asian Indian,,50,2
+Asian Indian,,51,2
+Asian Indian,,52,4
+Asian Indian,,54,2
+Asian Indian,,56,1
+Asian Indian,,57,3
+Asian Indian,,58,1
+Asian Indian,,59,1
+Asian Indian,,61,1
+Asian Indian,,63,1
+Asian Indian,,64,3
+Asian Indian,,66,1
+Asian Indian,,68,2
+Asian Indian,,78,1
+Asian Indian,,80,1
+Asian Indian,,84,1
+Asian Indian,F,,55
+Asian Indian,F,18,1
+Asian Indian,F,21,1
+Asian Indian,F,22,5
+Asian Indian,F,23,2
+Asian Indian,F,24,1
+Asian Indian,F,25,1
+Asian Indian,F,26,3
+Asian Indian,F,27,2
+Asian Indian,F,28,3
+Asian Indian,F,29,2
+Asian Indian,F,30,3
+Asian Indian,F,31,1
+Asian Indian,F,32,4
+Asian Indian,F,33,3
+Asian Indian,F,34,1
+Asian Indian,F,35,1
+Asian Indian,F,36,1
+Asian Indian,F,37,1
+Asian Indian,F,39,3
+Asian Indian,F,40,1
+Asian Indian,F,41,1
+Asian Indian,F,42,1
+Asian Indian,F,44,1
+Asian Indian,F,45,1
+Asian Indian,F,48,1
+Asian Indian,F,49,1
+Asian Indian,F,50,1
+Asian Indian,F,52,3
+Asian Indian,F,57,1
+Asian Indian,F,58,1
+Asian Indian,F,59,1
+Asian Indian,F,64,2
+Asian Indian,M,,99
+Asian Indian,M,17,1
+Asian Indian,M,18,1
+Asian Indian,M,19,1
+Asian Indian,M,20,3
+Asian Indian,M,21,3
+Asian Indian,M,22,2
+Asian Indian,M,23,3
+Asian Indian,M,24,4
+Asian Indian,M,25,3
+Asian Indian,M,26,8
+Asian Indian,M,27,1
+Asian Indian,M,28,2
+Asian Indian,M,30,3
+Asian Indian,M,31,3
+Asian Indian,M,32,2
+Asian Indian,M,33,5
+Asian Indian,M,34,5
+Asian Indian,M,35,6
+Asian Indian,M,36,1
+Asian Indian,M,37,3
+Asian Indian,M,38,2
+Asian Indian,M,39,1
+Asian Indian,M,40,2
+Asian Indian,M,41,3
+Asian Indian,M,42,3
+Asian Indian,M,43,2
+Asian Indian,M,44,1
+Asian Indian,M,45,1
+Asian Indian,M,46,1
+Asian Indian,M,47,2
+Asian Indian,M,48,2
+Asian Indian,M,49,1
+Asian Indian,M,50,1
+Asian Indian,M,51,2
+Asian Indian,M,52,1
+Asian Indian,M,54,2
+Asian Indian,M,56,1
+Asian Indian,M,57,2
+Asian Indian,M,61,1
+Asian Indian,M,63,1
+Asian Indian,M,64,1
+Asian Indian,M,66,1
+Asian Indian,M,68,2
+Asian Indian,M,78,1
+Asian Indian,M,80,1
+Asian Indian,M,84,1
+Black,,,41935
+Black,,0,466
+Black,,2,32
+Black,,3,41
+Black,,4,26
+Black,,5,43
+Black,,6,37
+Black,,7,41
+Black,,8,42
+Black,,9,47
+Black,,10,55
+Black,,11,67
+Black,,12,87
+Black,,13,131
+Black,,14,144
+Black,,15,232
+Black,,16,215
+Black,,17,236
+Black,,18,353
+Black,,19,459
+Black,,20,589
+Black,,21,683
+Black,,22,761
+Black,,23,851
+Black,,24,995
+Black,,25,1171
+Black,,26,1209
+Black,,27,1279
+Black,,28,1291
+Black,,29,1365
+Black,,30,1379
+Black,,31,1386
+Black,,32,1356
+Black,,33,1290
+Black,,34,1198
+Black,,35,1138
+Black,,36,1104
+Black,,37,999
+Black,,38,959
+Black,,39,843
+Black,,40,861
+Black,,41,815
+Black,,42,770
+Black,,43,748
+Black,,44,728
+Black,,45,623
+Black,,46,550
+Black,,47,540
+Black,,48,549
+Black,,49,579
+Black,,50,586
+Black,,51,547
+Black,,52,551
+Black,,53,562
+Black,,54,546
+Black,,55,590
+Black,,56,576
+Black,,57,543
+Black,,58,534
+Black,,59,520
+Black,,60,522
+Black,,61,489
+Black,,62,463
+Black,,63,447
+Black,,64,400
+Black,,65,352
+Black,,66,312
+Black,,67,274
+Black,,68,241
+Black,,69,167
+Black,,70,163
+Black,,71,144
+Black,,72,128
+Black,,73,126
+Black,,74,99
+Black,,75,84
+Black,,76,77
+Black,,77,72
+Black,,78,65
+Black,,79,45
+Black,,80,46
+Black,,81,31
+Black,,82,37
+Black,,83,33
+Black,,84,16
+Black,,85,35
+Black,,86,22
+Black,,87,22
+Black,,88,15
+Black,,89,14
+Black,,90,8
+Black,,91,14
+Black,,92,5
+Black,,93,10
+Black,,94,5
+Black,,95,4
+Black,,96,1
+Black,,97,1
+Black,,98,4
+Black,,99,24
+Black,F,,24107
+Black,F,0,181
+Black,F,2,18
+Black,F,3,25
+Black,F,4,16
+Black,F,5,23
+Black,F,6,19
+Black,F,7,22
+Black,F,8,26
+Black,F,9,22
+Black,F,10,26
+Black,F,11,42
+Black,F,12,57
+Black,F,13,81
+Black,F,14,93
+Black,F,15,154
+Black,F,16,148
+Black,F,17,164
+Black,F,18,225
+Black,F,19,300
+Black,F,20,393
+Black,F,21,456
+Black,F,22,520
+Black,F,23,533
+Black,F,24,650
+Black,F,25,727
+Black,F,26,771
+Black,F,27,796
+Black,F,28,818
+Black,F,29,821
+Black,F,30,830
+Black,F,31,861
+Black,F,32,822
+Black,F,33,771
+Black,F,34,723
+Black,F,35,648
+Black,F,36,652
+Black,F,37,574
+Black,F,38,563
+Black,F,39,481
+Black,F,40,482
+Black,F,41,467
+Black,F,42,432
+Black,F,43,433
+Black,F,44,444
+Black,F,45,347
+Black,F,46,311
+Black,F,47,301
+Black,F,48,319
+Black,F,49,320
+Black,F,50,329
+Black,F,51,300
+Black,F,52,296
+Black,F,53,294
+Black,F,54,284
+Black,F,55,310
+Black,F,56,272
+Black,F,57,270
+Black,F,58,247
+Black,F,59,247
+Black,F,60,220
+Black,F,61,218
+Black,F,62,210
+Black,F,63,185
+Black,F,64,169
+Black,F,65,147
+Black,F,66,156
+Black,F,67,114
+Black,F,68,115
+Black,F,69,86
+Black,F,70,84
+Black,F,71,80
+Black,F,72,65
+Black,F,73,62
+Black,F,74,49
+Black,F,75,43
+Black,F,76,41
+Black,F,77,31
+Black,F,78,32
+Black,F,79,29
+Black,F,80,26
+Black,F,81,19
+Black,F,82,24
+Black,F,83,14
+Black,F,84,8
+Black,F,85,23
+Black,F,86,15
+Black,F,87,14
+Black,F,88,5
+Black,F,89,10
+Black,F,90,7
+Black,F,91,12
+Black,F,92,5
+Black,F,93,8
+Black,F,94,3
+Black,F,95,4
+Black,F,96,1
+Black,F,97,1
+Black,F,98,4
+Black,F,99,11
+Black,M,,17788
+Black,M,0,284
+Black,M,2,14
+Black,M,3,16
+Black,M,4,10
+Black,M,5,19
+Black,M,6,18
+Black,M,7,19
+Black,M,8,16
+Black,M,9,25
+Black,M,10,29
+Black,M,11,25
+Black,M,12,30
+Black,M,13,50
+Black,M,14,51
+Black,M,15,78
+Black,M,16,67
+Black,M,17,72
+Black,M,18,126
+Black,M,19,158
+Black,M,20,195
+Black,M,21,226
+Black,M,22,240
+Black,M,23,318
+Black,M,24,343
+Black,M,25,443
+Black,M,26,438
+Black,M,27,483
+Black,M,28,473
+Black,M,29,540
+Black,M,30,546
+Black,M,31,524
+Black,M,32,532
+Black,M,33,517
+Black,M,34,474
+Black,M,35,489
+Black,M,36,447
+Black,M,37,425
+Black,M,38,396
+Black,M,39,362
+Black,M,40,379
+Black,M,41,348
+Black,M,42,337
+Black,M,43,314
+Black,M,44,283
+Black,M,45,276
+Black,M,46,239
+Black,M,47,238
+Black,M,48,230
+Black,M,49,258
+Black,M,50,257
+Black,M,51,247
+Black,M,52,255
+Black,M,53,267
+Black,M,54,262
+Black,M,55,279
+Black,M,56,304
+Black,M,57,271
+Black,M,58,286
+Black,M,59,273
+Black,M,60,302
+Black,M,61,271
+Black,M,62,253
+Black,M,63,262
+Black,M,64,231
+Black,M,65,205
+Black,M,66,156
+Black,M,67,160
+Black,M,68,126
+Black,M,69,81
+Black,M,70,79
+Black,M,71,64
+Black,M,72,63
+Black,M,73,64
+Black,M,74,50
+Black,M,75,41
+Black,M,76,36
+Black,M,77,41
+Black,M,78,33
+Black,M,79,16
+Black,M,80,20
+Black,M,81,12
+Black,M,82,13
+Black,M,83,19
+Black,M,84,8
+Black,M,85,12
+Black,M,86,7
+Black,M,87,8
+Black,M,88,10
+Black,M,89,4
+Black,M,90,1
+Black,M,91,2
+Black,M,93,2
+Black,M,94,2
+Black,M,99,13
+Black,X,,40
+Black,X,0,1
+Black,X,5,1
+Black,X,18,2
+Black,X,19,1
+Black,X,20,1
+Black,X,21,1
+Black,X,22,1
+Black,X,24,2
+Black,X,25,1
+Black,X,29,4
+Black,X,30,3
+Black,X,31,1
+Black,X,32,2
+Black,X,33,2
+Black,X,34,1
+Black,X,35,1
+Black,X,36,5
+Black,X,42,1
+Black,X,43,1
+Black,X,44,1
+Black,X,47,1
+Black,X,49,1
+Black,X,53,1
+Black,X,55,1
+Black,X,57,2
+Black,X,58,1
+Cambodian,,,22
+Cambodian,,19,1
+Cambodian,,20,1
+Cambodian,,25,1
+Cambodian,,27,1
+Cambodian,,29,1
+Cambodian,,30,2
+Cambodian,,31,3
+Cambodian,,32,2
+Cambodian,,33,2
+Cambodian,,35,1
+Cambodian,,36,2
+Cambodian,,37,1
+Cambodian,,39,1
+Cambodian,,40,1
+Cambodian,,46,1
+Cambodian,,51,1
+Cambodian,F,,11
+Cambodian,F,20,1
+Cambodian,F,27,1
+Cambodian,F,30,2
+Cambodian,F,31,1
+Cambodian,F,32,2
+Cambodian,F,33,2
+Cambodian,F,36,1
+Cambodian,F,39,1
+Cambodian,M,,11
+Cambodian,M,19,1
+Cambodian,M,25,1
+Cambodian,M,29,1
+Cambodian,M,31,2
+Cambodian,M,35,1
+Cambodian,M,36,1
+Cambodian,M,37,1
+Cambodian,M,40,1
+Cambodian,M,46,1
+Cambodian,M,51,1
+Chinese,,,1088
+Chinese,,0,2
+Chinese,,12,1
+Chinese,,13,1
+Chinese,,18,7
+Chinese,,19,9
+Chinese,,20,20
+Chinese,,21,32
+Chinese,,22,42
+Chinese,,23,61
+Chinese,,24,57
+Chinese,,25,51
+Chinese,,26,54
+Chinese,,27,57
+Chinese,,28,43
+Chinese,,29,44
+Chinese,,30,39
+Chinese,,31,44
+Chinese,,32,46
+Chinese,,33,31
+Chinese,,34,39
+Chinese,,35,34
+Chinese,,36,23
+Chinese,,37,27
+Chinese,,38,26
+Chinese,,39,19
+Chinese,,40,16
+Chinese,,41,21
+Chinese,,42,17
+Chinese,,43,17
+Chinese,,44,10
+Chinese,,45,9
+Chinese,,46,10
+Chinese,,47,12
+Chinese,,48,9
+Chinese,,49,9
+Chinese,,50,8
+Chinese,,51,11
+Chinese,,52,9
+Chinese,,53,10
+Chinese,,54,4
+Chinese,,55,5
+Chinese,,56,8
+Chinese,,57,9
+Chinese,,58,11
+Chinese,,59,8
+Chinese,,60,8
+Chinese,,61,6
+Chinese,,62,1
+Chinese,,63,3
+Chinese,,64,2
+Chinese,,65,2
+Chinese,,66,3
+Chinese,,67,5
+Chinese,,68,6
+Chinese,,69,3
+Chinese,,70,3
+Chinese,,71,2
+Chinese,,72,2
+Chinese,,73,2
+Chinese,,74,1
+Chinese,,75,2
+Chinese,,76,1
+Chinese,,77,2
+Chinese,,78,1
+Chinese,,79,2
+Chinese,,81,4
+Chinese,,82,1
+Chinese,,84,1
+Chinese,,87,1
+Chinese,,88,1
+Chinese,,92,1
+Chinese,F,,523
+Chinese,F,0,1
+Chinese,F,12,1
+Chinese,F,18,4
+Chinese,F,19,5
+Chinese,F,20,7
+Chinese,F,21,16
+Chinese,F,22,21
+Chinese,F,23,22
+Chinese,F,24,32
+Chinese,F,25,24
+Chinese,F,26,23
+Chinese,F,27,33
+Chinese,F,28,18
+Chinese,F,29,21
+Chinese,F,30,18
+Chinese,F,31,27
+Chinese,F,32,15
+Chinese,F,33,16
+Chinese,F,34,23
+Chinese,F,35,21
+Chinese,F,36,12
+Chinese,F,37,13
+Chinese,F,38,7
+Chinese,F,39,7
+Chinese,F,40,7
+Chinese,F,41,8
+Chinese,F,42,6
+Chinese,F,43,8
+Chinese,F,44,5
+Chinese,F,45,2
+Chinese,F,46,4
+Chinese,F,47,8
+Chinese,F,48,4
+Chinese,F,49,5
+Chinese,F,50,5
+Chinese,F,51,5
+Chinese,F,52,5
+Chinese,F,53,5
+Chinese,F,54,4
+Chinese,F,55,3
+Chinese,F,56,3
+Chinese,F,57,5
+Chinese,F,58,8
+Chinese,F,59,4
+Chinese,F,60,4
+Chinese,F,61,3
+Chinese,F,63,2
+Chinese,F,64,1
+Chinese,F,65,1
+Chinese,F,66,1
+Chinese,F,67,2
+Chinese,F,68,3
+Chinese,F,69,1
+Chinese,F,70,1
+Chinese,F,71,2
+Chinese,F,72,1
+Chinese,F,73,2
+Chinese,F,75,1
+Chinese,F,77,1
+Chinese,F,81,3
+Chinese,F,84,1
+Chinese,F,88,1
+Chinese,F,92,1
+Chinese,M,,560
+Chinese,M,13,1
+Chinese,M,18,3
+Chinese,M,19,4
+Chinese,M,20,13
+Chinese,M,21,16
+Chinese,M,22,20
+Chinese,M,23,37
+Chinese,M,24,25
+Chinese,M,25,27
+Chinese,M,26,30
+Chinese,M,27,24
+Chinese,M,28,25
+Chinese,M,29,23
+Chinese,M,30,21
+Chinese,M,31,17
+Chinese,M,32,31
+Chinese,M,33,15
+Chinese,M,34,16
+Chinese,M,35,13
+Chinese,M,36,11
+Chinese,M,37,14
+Chinese,M,38,19
+Chinese,M,39,12
+Chinese,M,40,9
+Chinese,M,41,13
+Chinese,M,42,11
+Chinese,M,43,9
+Chinese,M,44,5
+Chinese,M,45,7
+Chinese,M,46,6
+Chinese,M,47,4
+Chinese,M,48,5
+Chinese,M,49,4
+Chinese,M,50,3
+Chinese,M,51,6
+Chinese,M,52,4
+Chinese,M,53,5
+Chinese,M,55,2
+Chinese,M,56,5
+Chinese,M,57,4
+Chinese,M,58,3
+Chinese,M,59,4
+Chinese,M,60,4
+Chinese,M,61,3
+Chinese,M,62,1
+Chinese,M,63,1
+Chinese,M,64,1
+Chinese,M,65,1
+Chinese,M,66,2
+Chinese,M,67,3
+Chinese,M,68,3
+Chinese,M,69,2
+Chinese,M,70,2
+Chinese,M,72,1
+Chinese,M,74,1
+Chinese,M,75,1
+Chinese,M,76,1
+Chinese,M,77,1
+Chinese,M,78,1
+Chinese,M,79,2
+Chinese,M,81,1
+Chinese,M,82,1
+Chinese,M,87,1
+Chinese,X,,5
+Chinese,X,0,1
+Chinese,X,22,1
+Chinese,X,23,2
+Chinese,X,26,1
+Filipino,,,1232
+Filipino,,0,3
+Filipino,,6,1
+Filipino,,8,2
+Filipino,,11,1
+Filipino,,12,2
+Filipino,,13,1
+Filipino,,14,1
+Filipino,,15,2
+Filipino,,16,1
+Filipino,,17,1
+Filipino,,18,14
+Filipino,,19,7
+Filipino,,20,13
+Filipino,,21,30
+Filipino,,22,19
+Filipino,,23,30
+Filipino,,24,25
+Filipino,,25,41
+Filipino,,26,30
+Filipino,,27,42
+Filipino,,28,40
+Filipino,,29,41
+Filipino,,30,44
+Filipino,,31,42
+Filipino,,32,36
+Filipino,,33,34
+Filipino,,34,31
+Filipino,,35,33
+Filipino,,36,22
+Filipino,,37,41
+Filipino,,38,28
+Filipino,,39,32
+Filipino,,40,33
+Filipino,,41,19
+Filipino,,42,26
+Filipino,,43,20
+Filipino,,44,23
+Filipino,,45,26
+Filipino,,46,32
+Filipino,,47,24
+Filipino,,48,23
+Filipino,,49,22
+Filipino,,50,23
+Filipino,,51,19
+Filipino,,52,23
+Filipino,,53,15
+Filipino,,54,18
+Filipino,,55,13
+Filipino,,56,8
+Filipino,,57,13
+Filipino,,58,18
+Filipino,,59,11
+Filipino,,60,12
+Filipino,,61,12
+Filipino,,62,10
+Filipino,,63,10
+Filipino,,64,7
+Filipino,,65,10
+Filipino,,66,6
+Filipino,,67,8
+Filipino,,68,6
+Filipino,,69,4
+Filipino,,70,4
+Filipino,,71,4
+Filipino,,72,4
+Filipino,,73,5
+Filipino,,74,5
+Filipino,,75,7
+Filipino,,76,2
+Filipino,,77,2
+Filipino,,78,1
+Filipino,,79,1
+Filipino,,80,3
+Filipino,,81,1
+Filipino,,82,3
+Filipino,,83,1
+Filipino,,85,1
+Filipino,,88,1
+Filipino,,90,1
+Filipino,,91,1
+Filipino,,93,1
+Filipino,F,,611
+Filipino,F,0,2
+Filipino,F,6,1
+Filipino,F,8,1
+Filipino,F,12,2
+Filipino,F,14,1
+Filipino,F,15,2
+Filipino,F,18,7
+Filipino,F,19,3
+Filipino,F,20,8
+Filipino,F,21,16
+Filipino,F,22,8
+Filipino,F,23,10
+Filipino,F,24,13
+Filipino,F,25,20
+Filipino,F,26,16
+Filipino,F,27,20
+Filipino,F,28,17
+Filipino,F,29,17
+Filipino,F,30,19
+Filipino,F,31,17
+Filipino,F,32,18
+Filipino,F,33,19
+Filipino,F,34,21
+Filipino,F,35,18
+Filipino,F,36,13
+Filipino,F,37,23
+Filipino,F,38,18
+Filipino,F,39,21
+Filipino,F,40,14
+Filipino,F,41,8
+Filipino,F,42,13
+Filipino,F,43,5
+Filipino,F,44,10
+Filipino,F,45,12
+Filipino,F,46,13
+Filipino,F,47,9
+Filipino,F,48,11
+Filipino,F,49,8
+Filipino,F,50,16
+Filipino,F,51,8
+Filipino,F,52,12
+Filipino,F,53,7
+Filipino,F,54,11
+Filipino,F,55,2
+Filipino,F,56,4
+Filipino,F,57,5
+Filipino,F,58,6
+Filipino,F,59,6
+Filipino,F,60,7
+Filipino,F,61,6
+Filipino,F,62,3
+Filipino,F,63,7
+Filipino,F,64,1
+Filipino,F,65,8
+Filipino,F,66,5
+Filipino,F,67,4
+Filipino,F,68,5
+Filipino,F,69,3
+Filipino,F,70,2
+Filipino,F,71,3
+Filipino,F,72,2
+Filipino,F,73,4
+Filipino,F,74,2
+Filipino,F,75,4
+Filipino,F,76,2
+Filipino,F,77,2
+Filipino,F,78,1
+Filipino,F,79,1
+Filipino,F,80,2
+Filipino,F,82,3
+Filipino,F,88,1
+Filipino,F,90,1
+Filipino,F,93,1
+Filipino,H,,23
+Filipino,H,18,1
+Filipino,H,21,2
+Filipino,H,24,1
+Filipino,H,25,2
+Filipino,H,27,2
+Filipino,H,29,2
+Filipino,H,31,1
+Filipino,H,32,1
+Filipino,H,35,1
+Filipino,H,39,1
+Filipino,H,41,1
+Filipino,H,42,1
+Filipino,H,43,1
+Filipino,H,45,1
+Filipino,H,49,1
+Filipino,H,58,2
+Filipino,H,64,1
+Filipino,H,83,1
+Filipino,M,,593
+Filipino,M,0,1
+Filipino,M,8,1
+Filipino,M,11,1
+Filipino,M,13,1
+Filipino,M,16,1
+Filipino,M,17,1
+Filipino,M,18,6
+Filipino,M,19,4
+Filipino,M,20,5
+Filipino,M,21,12
+Filipino,M,22,11
+Filipino,M,23,19
+Filipino,M,24,11
+Filipino,M,25,18
+Filipino,M,26,14
+Filipino,M,27,20
+Filipino,M,28,23
+Filipino,M,29,22
+Filipino,M,30,25
+Filipino,M,31,24
+Filipino,M,32,17
+Filipino,M,33,15
+Filipino,M,34,10
+Filipino,M,35,14
+Filipino,M,36,9
+Filipino,M,37,18
+Filipino,M,38,10
+Filipino,M,39,10
+Filipino,M,40,19
+Filipino,M,41,10
+Filipino,M,42,12
+Filipino,M,43,14
+Filipino,M,44,13
+Filipino,M,45,13
+Filipino,M,46,19
+Filipino,M,47,15
+Filipino,M,48,12
+Filipino,M,49,13
+Filipino,M,50,6
+Filipino,M,51,10
+Filipino,M,52,11
+Filipino,M,53,8
+Filipino,M,54,7
+Filipino,M,55,10
+Filipino,M,56,4
+Filipino,M,57,8
+Filipino,M,58,10
+Filipino,M,59,5
+Filipino,M,60,5
+Filipino,M,61,6
+Filipino,M,62,7
+Filipino,M,63,3
+Filipino,M,64,5
+Filipino,M,65,2
+Filipino,M,66,1
+Filipino,M,67,4
+Filipino,M,68,1
+Filipino,M,69,1
+Filipino,M,70,2
+Filipino,M,71,1
+Filipino,M,72,2
+Filipino,M,73,1
+Filipino,M,74,3
+Filipino,M,75,3
+Filipino,M,80,1
+Filipino,M,81,1
+Filipino,M,85,1
+Filipino,M,91,1
+Filipino,X,,5
+Filipino,X,23,1
+Filipino,X,25,1
+Filipino,X,50,1
+Filipino,X,51,1
+Filipino,X,55,1
+Guamanian,,,16
+Guamanian,,18,2
+Guamanian,,22,1
+Guamanian,,24,1
+Guamanian,,26,1
+Guamanian,,27,1
+Guamanian,,29,1
+Guamanian,,32,1
+Guamanian,,33,1
+Guamanian,,40,1
+Guamanian,,41,1
+Guamanian,,43,1
+Guamanian,,48,1
+Guamanian,,53,2
+Guamanian,,59,1
+Guamanian,F,,10
+Guamanian,F,18,2
+Guamanian,F,22,1
+Guamanian,F,27,1
+Guamanian,F,29,1
+Guamanian,F,32,1
+Guamanian,F,41,1
+Guamanian,F,48,1
+Guamanian,F,53,2
+Guamanian,M,,6
+Guamanian,M,24,1
+Guamanian,M,26,1
+Guamanian,M,33,1
+Guamanian,M,40,1
+Guamanian,M,43,1
+Guamanian,M,59,1
+Hawaiian,,,63
+Hawaiian,,0,13
+Hawaiian,,18,1
+Hawaiian,,19,1
+Hawaiian,,20,1
+Hawaiian,,22,2
+Hawaiian,,23,1
+Hawaiian,,25,1
+Hawaiian,,26,1
+Hawaiian,,28,1
+Hawaiian,,29,1
+Hawaiian,,30,1
+Hawaiian,,31,3
+Hawaiian,,32,4
+Hawaiian,,33,3
+Hawaiian,,34,5
+Hawaiian,,35,1
+Hawaiian,,36,2
+Hawaiian,,37,3
+Hawaiian,,39,1
+Hawaiian,,40,1
+Hawaiian,,41,1
+Hawaiian,,42,2
+Hawaiian,,43,1
+Hawaiian,,44,1
+Hawaiian,,45,1
+Hawaiian,,46,1
+Hawaiian,,47,1
+Hawaiian,,49,1
+Hawaiian,,50,1
+Hawaiian,,53,1
+Hawaiian,,54,1
+Hawaiian,,55,1
+Hawaiian,,58,1
+Hawaiian,,67,1
+Hawaiian,,97,1
+Hawaiian,F,,30
+Hawaiian,F,0,2
+Hawaiian,F,18,1
+Hawaiian,F,22,2
+Hawaiian,F,23,1
+Hawaiian,F,25,1
+Hawaiian,F,26,1
+Hawaiian,F,28,1
+Hawaiian,F,32,2
+Hawaiian,F,33,1
+Hawaiian,F,34,2
+Hawaiian,F,35,1
+Hawaiian,F,36,2
+Hawaiian,F,37,3
+Hawaiian,F,39,1
+Hawaiian,F,43,1
+Hawaiian,F,45,1
+Hawaiian,F,46,1
+Hawaiian,F,47,1
+Hawaiian,F,49,1
+Hawaiian,F,50,1
+Hawaiian,F,53,1
+Hawaiian,F,55,1
+Hawaiian,F,58,1
+Hawaiian,M,,32
+Hawaiian,M,0,10
+Hawaiian,M,19,1
+Hawaiian,M,20,1
+Hawaiian,M,29,1
+Hawaiian,M,30,1
+Hawaiian,M,31,3
+Hawaiian,M,32,2
+Hawaiian,M,33,2
+Hawaiian,M,34,3
+Hawaiian,M,40,1
+Hawaiian,M,41,1
+Hawaiian,M,42,2
+Hawaiian,M,44,1
+Hawaiian,M,54,1
+Hawaiian,M,67,1
+Hawaiian,M,97,1
+Hawaiian,X,,1
+Hawaiian,X,0,1
+Hispanic-Latin-Mexican,,,88424
+Hispanic-Latin-Mexican,,-2,2
+Hispanic-Latin-Mexican,,-1,1
+Hispanic-Latin-Mexican,,0,1394
+Hispanic-Latin-Mexican,,2,62
+Hispanic-Latin-Mexican,,3,87
+Hispanic-Latin-Mexican,,4,112
+Hispanic-Latin-Mexican,,5,112
+Hispanic-Latin-Mexican,,6,140
+Hispanic-Latin-Mexican,,7,132
+Hispanic-Latin-Mexican,,8,138
+Hispanic-Latin-Mexican,,9,157
+Hispanic-Latin-Mexican,,10,150
+Hispanic-Latin-Mexican,,11,261
+Hispanic-Latin-Mexican,,12,410
+Hispanic-Latin-Mexican,,13,501
+Hispanic-Latin-Mexican,,14,633
+Hispanic-Latin-Mexican,,15,743
+Hispanic-Latin-Mexican,,16,826
+Hispanic-Latin-Mexican,,17,841
+Hispanic-Latin-Mexican,,18,994
+Hispanic-Latin-Mexican,,19,1349
+Hispanic-Latin-Mexican,,20,1586
+Hispanic-Latin-Mexican,,21,1770
+Hispanic-Latin-Mexican,,22,1944
+Hispanic-Latin-Mexican,,23,2252
+Hispanic-Latin-Mexican,,24,2330
+Hispanic-Latin-Mexican,,25,2432
+Hispanic-Latin-Mexican,,26,2512
+Hispanic-Latin-Mexican,,27,2584
+Hispanic-Latin-Mexican,,28,2633
+Hispanic-Latin-Mexican,,29,2680
+Hispanic-Latin-Mexican,,30,2628
+Hispanic-Latin-Mexican,,31,2601
+Hispanic-Latin-Mexican,,32,2488
+Hispanic-Latin-Mexican,,33,2384
+Hispanic-Latin-Mexican,,34,2376
+Hispanic-Latin-Mexican,,35,2266
+Hispanic-Latin-Mexican,,36,2204
+Hispanic-Latin-Mexican,,37,2100
+Hispanic-Latin-Mexican,,38,2121
+Hispanic-Latin-Mexican,,39,1954
+Hispanic-Latin-Mexican,,40,2035
+Hispanic-Latin-Mexican,,41,1948
+Hispanic-Latin-Mexican,,42,1766
+Hispanic-Latin-Mexican,,43,1727
+Hispanic-Latin-Mexican,,44,1645
+Hispanic-Latin-Mexican,,45,1658
+Hispanic-Latin-Mexican,,46,1527
+Hispanic-Latin-Mexican,,47,1431
+Hispanic-Latin-Mexican,,48,1431
+Hispanic-Latin-Mexican,,49,1373
+Hispanic-Latin-Mexican,,50,1332
+Hispanic-Latin-Mexican,,51,1222
+Hispanic-Latin-Mexican,,52,1198
+Hispanic-Latin-Mexican,,53,1131
+Hispanic-Latin-Mexican,,54,1080
+Hispanic-Latin-Mexican,,55,974
+Hispanic-Latin-Mexican,,56,919
+Hispanic-Latin-Mexican,,57,807
+Hispanic-Latin-Mexican,,58,808
+Hispanic-Latin-Mexican,,59,698
+Hispanic-Latin-Mexican,,60,726
+Hispanic-Latin-Mexican,,61,649
+Hispanic-Latin-Mexican,,62,602
+Hispanic-Latin-Mexican,,63,547
+Hispanic-Latin-Mexican,,64,513
+Hispanic-Latin-Mexican,,65,468
+Hispanic-Latin-Mexican,,66,398
+Hispanic-Latin-Mexican,,67,359
+Hispanic-Latin-Mexican,,68,283
+Hispanic-Latin-Mexican,,69,291
+Hispanic-Latin-Mexican,,70,221
+Hispanic-Latin-Mexican,,71,194
+Hispanic-Latin-Mexican,,72,208
+Hispanic-Latin-Mexican,,73,205
+Hispanic-Latin-Mexican,,74,143
+Hispanic-Latin-Mexican,,75,137
+Hispanic-Latin-Mexican,,76,116
+Hispanic-Latin-Mexican,,77,107
+Hispanic-Latin-Mexican,,78,94
+Hispanic-Latin-Mexican,,79,84
+Hispanic-Latin-Mexican,,80,73
+Hispanic-Latin-Mexican,,81,60
+Hispanic-Latin-Mexican,,82,50
+Hispanic-Latin-Mexican,,83,53
+Hispanic-Latin-Mexican,,84,27
+Hispanic-Latin-Mexican,,85,28
+Hispanic-Latin-Mexican,,86,30
+Hispanic-Latin-Mexican,,87,29
+Hispanic-Latin-Mexican,,88,18
+Hispanic-Latin-Mexican,,89,9
+Hispanic-Latin-Mexican,,90,13
+Hispanic-Latin-Mexican,,91,10
+Hispanic-Latin-Mexican,,92,4
+Hispanic-Latin-Mexican,,93,5
+Hispanic-Latin-Mexican,,94,5
+Hispanic-Latin-Mexican,,95,13
+Hispanic-Latin-Mexican,,96,9
+Hispanic-Latin-Mexican,,97,8
+Hispanic-Latin-Mexican,,98,5
+Hispanic-Latin-Mexican,,99,30
+Hispanic-Latin-Mexican,F,,46034
+Hispanic-Latin-Mexican,F,-2,1
+Hispanic-Latin-Mexican,F,-1,1
+Hispanic-Latin-Mexican,F,0,454
+Hispanic-Latin-Mexican,F,2,30
+Hispanic-Latin-Mexican,F,3,48
+Hispanic-Latin-Mexican,F,4,67
+Hispanic-Latin-Mexican,F,5,72
+Hispanic-Latin-Mexican,F,6,75
+Hispanic-Latin-Mexican,F,7,83
+Hispanic-Latin-Mexican,F,8,86
+Hispanic-Latin-Mexican,F,9,92
+Hispanic-Latin-Mexican,F,10,111
+Hispanic-Latin-Mexican,F,11,177
+Hispanic-Latin-Mexican,F,12,279
+Hispanic-Latin-Mexican,F,13,332
+Hispanic-Latin-Mexican,F,14,390
+Hispanic-Latin-Mexican,F,15,472
+Hispanic-Latin-Mexican,F,16,507
+Hispanic-Latin-Mexican,F,17,482
+Hispanic-Latin-Mexican,F,18,517
+Hispanic-Latin-Mexican,F,19,754
+Hispanic-Latin-Mexican,F,20,851
+Hispanic-Latin-Mexican,F,21,942
+Hispanic-Latin-Mexican,F,22,1074
+Hispanic-Latin-Mexican,F,23,1232
+Hispanic-Latin-Mexican,F,24,1341
+Hispanic-Latin-Mexican,F,25,1363
+Hispanic-Latin-Mexican,F,26,1362
+Hispanic-Latin-Mexican,F,27,1397
+Hispanic-Latin-Mexican,F,28,1484
+Hispanic-Latin-Mexican,F,29,1448
+Hispanic-Latin-Mexican,F,30,1413
+Hispanic-Latin-Mexican,F,31,1429
+Hispanic-Latin-Mexican,F,32,1391
+Hispanic-Latin-Mexican,F,33,1295
+Hispanic-Latin-Mexican,F,34,1282
+Hispanic-Latin-Mexican,F,35,1159
+Hispanic-Latin-Mexican,F,36,1155
+Hispanic-Latin-Mexican,F,37,1138
+Hispanic-Latin-Mexican,F,38,1108
+Hispanic-Latin-Mexican,F,39,1029
+Hispanic-Latin-Mexican,F,40,1039
+Hispanic-Latin-Mexican,F,41,991
+Hispanic-Latin-Mexican,F,42,922
+Hispanic-Latin-Mexican,F,43,870
+Hispanic-Latin-Mexican,F,44,859
+Hispanic-Latin-Mexican,F,45,836
+Hispanic-Latin-Mexican,F,46,718
+Hispanic-Latin-Mexican,F,47,714
+Hispanic-Latin-Mexican,F,48,721
+Hispanic-Latin-Mexican,F,49,651
+Hispanic-Latin-Mexican,F,50,614
+Hispanic-Latin-Mexican,F,51,559
+Hispanic-Latin-Mexican,F,52,549
+Hispanic-Latin-Mexican,F,53,464
+Hispanic-Latin-Mexican,F,54,492
+Hispanic-Latin-Mexican,F,55,431
+Hispanic-Latin-Mexican,F,56,408
+Hispanic-Latin-Mexican,F,57,342
+Hispanic-Latin-Mexican,F,58,350
+Hispanic-Latin-Mexican,F,59,322
+Hispanic-Latin-Mexican,F,60,314
+Hispanic-Latin-Mexican,F,61,295
+Hispanic-Latin-Mexican,F,62,266
+Hispanic-Latin-Mexican,F,63,248
+Hispanic-Latin-Mexican,F,64,246
+Hispanic-Latin-Mexican,F,65,203
+Hispanic-Latin-Mexican,F,66,187
+Hispanic-Latin-Mexican,F,67,169
+Hispanic-Latin-Mexican,F,68,136
+Hispanic-Latin-Mexican,F,69,139
+Hispanic-Latin-Mexican,F,70,112
+Hispanic-Latin-Mexican,F,71,83
+Hispanic-Latin-Mexican,F,72,97
+Hispanic-Latin-Mexican,F,73,114
+Hispanic-Latin-Mexican,F,74,84
+Hispanic-Latin-Mexican,F,75,69
+Hispanic-Latin-Mexican,F,76,63
+Hispanic-Latin-Mexican,F,77,58
+Hispanic-Latin-Mexican,F,78,58
+Hispanic-Latin-Mexican,F,79,42
+Hispanic-Latin-Mexican,F,80,42
+Hispanic-Latin-Mexican,F,81,37
+Hispanic-Latin-Mexican,F,82,29
+Hispanic-Latin-Mexican,F,83,31
+Hispanic-Latin-Mexican,F,84,22
+Hispanic-Latin-Mexican,F,85,12
+Hispanic-Latin-Mexican,F,86,12
+Hispanic-Latin-Mexican,F,87,19
+Hispanic-Latin-Mexican,F,88,11
+Hispanic-Latin-Mexican,F,89,5
+Hispanic-Latin-Mexican,F,90,7
+Hispanic-Latin-Mexican,F,91,7
+Hispanic-Latin-Mexican,F,92,2
+Hispanic-Latin-Mexican,F,93,5
+Hispanic-Latin-Mexican,F,94,4
+Hispanic-Latin-Mexican,F,95,7
+Hispanic-Latin-Mexican,F,96,4
+Hispanic-Latin-Mexican,F,97,3
+Hispanic-Latin-Mexican,F,98,2
+Hispanic-Latin-Mexican,F,99,15
+Hispanic-Latin-Mexican,H,,9
+Hispanic-Latin-Mexican,H,7,1
+Hispanic-Latin-Mexican,H,22,2
+Hispanic-Latin-Mexican,H,26,1
+Hispanic-Latin-Mexican,H,27,1
+Hispanic-Latin-Mexican,H,31,1
+Hispanic-Latin-Mexican,H,35,1
+Hispanic-Latin-Mexican,H,37,1
+Hispanic-Latin-Mexican,H,66,1
+Hispanic-Latin-Mexican,M,,42327
+Hispanic-Latin-Mexican,M,-2,1
+Hispanic-Latin-Mexican,M,0,940
+Hispanic-Latin-Mexican,M,2,32
+Hispanic-Latin-Mexican,M,3,39
+Hispanic-Latin-Mexican,M,4,45
+Hispanic-Latin-Mexican,M,5,40
+Hispanic-Latin-Mexican,M,6,65
+Hispanic-Latin-Mexican,M,7,48
+Hispanic-Latin-Mexican,M,8,52
+Hispanic-Latin-Mexican,M,9,65
+Hispanic-Latin-Mexican,M,10,39
+Hispanic-Latin-Mexican,M,11,84
+Hispanic-Latin-Mexican,M,12,131
+Hispanic-Latin-Mexican,M,13,169
+Hispanic-Latin-Mexican,M,14,243
+Hispanic-Latin-Mexican,M,15,271
+Hispanic-Latin-Mexican,M,16,319
+Hispanic-Latin-Mexican,M,17,358
+Hispanic-Latin-Mexican,M,18,477
+Hispanic-Latin-Mexican,M,19,595
+Hispanic-Latin-Mexican,M,20,732
+Hispanic-Latin-Mexican,M,21,828
+Hispanic-Latin-Mexican,M,22,866
+Hispanic-Latin-Mexican,M,23,1017
+Hispanic-Latin-Mexican,M,24,987
+Hispanic-Latin-Mexican,M,25,1068
+Hispanic-Latin-Mexican,M,26,1147
+Hispanic-Latin-Mexican,M,27,1183
+Hispanic-Latin-Mexican,M,28,1148
+Hispanic-Latin-Mexican,M,29,1228
+Hispanic-Latin-Mexican,M,30,1212
+Hispanic-Latin-Mexican,M,31,1166
+Hispanic-Latin-Mexican,M,32,1095
+Hispanic-Latin-Mexican,M,33,1087
+Hispanic-Latin-Mexican,M,34,1094
+Hispanic-Latin-Mexican,M,35,1105
+Hispanic-Latin-Mexican,M,36,1046
+Hispanic-Latin-Mexican,M,37,959
+Hispanic-Latin-Mexican,M,38,1011
+Hispanic-Latin-Mexican,M,39,923
+Hispanic-Latin-Mexican,M,40,996
+Hispanic-Latin-Mexican,M,41,957
+Hispanic-Latin-Mexican,M,42,844
+Hispanic-Latin-Mexican,M,43,856
+Hispanic-Latin-Mexican,M,44,784
+Hispanic-Latin-Mexican,M,45,822
+Hispanic-Latin-Mexican,M,46,809
+Hispanic-Latin-Mexican,M,47,717
+Hispanic-Latin-Mexican,M,48,710
+Hispanic-Latin-Mexican,M,49,721
+Hispanic-Latin-Mexican,M,50,717
+Hispanic-Latin-Mexican,M,51,663
+Hispanic-Latin-Mexican,M,52,649
+Hispanic-Latin-Mexican,M,53,667
+Hispanic-Latin-Mexican,M,54,587
+Hispanic-Latin-Mexican,M,55,543
+Hispanic-Latin-Mexican,M,56,510
+Hispanic-Latin-Mexican,M,57,465
+Hispanic-Latin-Mexican,M,58,458
+Hispanic-Latin-Mexican,M,59,376
+Hispanic-Latin-Mexican,M,60,412
+Hispanic-Latin-Mexican,M,61,352
+Hispanic-Latin-Mexican,M,62,336
+Hispanic-Latin-Mexican,M,63,299
+Hispanic-Latin-Mexican,M,64,267
+Hispanic-Latin-Mexican,M,65,264
+Hispanic-Latin-Mexican,M,66,210
+Hispanic-Latin-Mexican,M,67,190
+Hispanic-Latin-Mexican,M,68,147
+Hispanic-Latin-Mexican,M,69,152
+Hispanic-Latin-Mexican,M,70,109
+Hispanic-Latin-Mexican,M,71,111
+Hispanic-Latin-Mexican,M,72,111
+Hispanic-Latin-Mexican,M,73,91
+Hispanic-Latin-Mexican,M,74,59
+Hispanic-Latin-Mexican,M,75,68
+Hispanic-Latin-Mexican,M,76,53
+Hispanic-Latin-Mexican,M,77,49
+Hispanic-Latin-Mexican,M,78,36
+Hispanic-Latin-Mexican,M,79,42
+Hispanic-Latin-Mexican,M,80,31
+Hispanic-Latin-Mexican,M,81,23
+Hispanic-Latin-Mexican,M,82,21
+Hispanic-Latin-Mexican,M,83,22
+Hispanic-Latin-Mexican,M,84,5
+Hispanic-Latin-Mexican,M,85,16
+Hispanic-Latin-Mexican,M,86,18
+Hispanic-Latin-Mexican,M,87,10
+Hispanic-Latin-Mexican,M,88,7
+Hispanic-Latin-Mexican,M,89,4
+Hispanic-Latin-Mexican,M,90,6
+Hispanic-Latin-Mexican,M,91,3
+Hispanic-Latin-Mexican,M,92,2
+Hispanic-Latin-Mexican,M,94,1
+Hispanic-Latin-Mexican,M,95,6
+Hispanic-Latin-Mexican,M,96,5
+Hispanic-Latin-Mexican,M,97,5
+Hispanic-Latin-Mexican,M,98,3
+Hispanic-Latin-Mexican,M,99,15
+Hispanic-Latin-Mexican,X,,54
+Hispanic-Latin-Mexican,X,17,1
+Hispanic-Latin-Mexican,X,20,3
+Hispanic-Latin-Mexican,X,22,2
+Hispanic-Latin-Mexican,X,23,3
+Hispanic-Latin-Mexican,X,24,2
+Hispanic-Latin-Mexican,X,25,1
+Hispanic-Latin-Mexican,X,26,2
+Hispanic-Latin-Mexican,X,27,3
+Hispanic-Latin-Mexican,X,28,1
+Hispanic-Latin-Mexican,X,29,4
+Hispanic-Latin-Mexican,X,30,3
+Hispanic-Latin-Mexican,X,31,5
+Hispanic-Latin-Mexican,X,32,2
+Hispanic-Latin-Mexican,X,33,2
+Hispanic-Latin-Mexican,X,35,1
+Hispanic-Latin-Mexican,X,36,3
+Hispanic-Latin-Mexican,X,37,2
+Hispanic-Latin-Mexican,X,38,2
+Hispanic-Latin-Mexican,X,39,2
+Hispanic-Latin-Mexican,X,43,1
+Hispanic-Latin-Mexican,X,44,2
+Hispanic-Latin-Mexican,X,49,1
+Hispanic-Latin-Mexican,X,50,1
+Hispanic-Latin-Mexican,X,54,1
+Hispanic-Latin-Mexican,X,56,1
+Hispanic-Latin-Mexican,X,61,2
+Hispanic-Latin-Mexican,X,65,1
+Japanese,,,395
+Japanese,,9,1
+Japanese,,13,1
+Japanese,,14,1
+Japanese,,16,1
+Japanese,,18,2
+Japanese,,19,2
+Japanese,,20,3
+Japanese,,21,3
+Japanese,,22,9
+Japanese,,23,10
+Japanese,,24,5
+Japanese,,25,15
+Japanese,,26,8
+Japanese,,27,8
+Japanese,,28,9
+Japanese,,29,5
+Japanese,,30,12
+Japanese,,31,8
+Japanese,,32,5
+Japanese,,33,10
+Japanese,,34,9
+Japanese,,35,10
+Japanese,,36,6
+Japanese,,37,9
+Japanese,,38,13
+Japanese,,39,11
+Japanese,,40,12
+Japanese,,41,12
+Japanese,,42,5
+Japanese,,43,6
+Japanese,,44,7
+Japanese,,45,10
+Japanese,,46,3
+Japanese,,47,10
+Japanese,,48,6
+Japanese,,49,13
+Japanese,,50,8
+Japanese,,51,6
+Japanese,,52,3
+Japanese,,53,6
+Japanese,,54,8
+Japanese,,55,6
+Japanese,,56,4
+Japanese,,57,8
+Japanese,,58,9
+Japanese,,59,7
+Japanese,,60,3
+Japanese,,61,4
+Japanese,,62,8
+Japanese,,63,4
+Japanese,,64,6
+Japanese,,65,4
+Japanese,,66,8
+Japanese,,67,4
+Japanese,,68,1
+Japanese,,69,3
+Japanese,,70,3
+Japanese,,71,2
+Japanese,,72,3
+Japanese,,73,2
+Japanese,,75,4
+Japanese,,77,2
+Japanese,,78,1
+Japanese,,80,1
+Japanese,,81,1
+Japanese,,82,1
+Japanese,,83,1
+Japanese,,85,1
+Japanese,,86,1
+Japanese,,90,1
+Japanese,,99,1
+Japanese,F,,200
+Japanese,F,13,1
+Japanese,F,14,1
+Japanese,F,16,1
+Japanese,F,19,1
+Japanese,F,20,1
+Japanese,F,22,5
+Japanese,F,23,3
+Japanese,F,24,1
+Japanese,F,25,10
+Japanese,F,26,5
+Japanese,F,27,1
+Japanese,F,28,4
+Japanese,F,29,1
+Japanese,F,30,8
+Japanese,F,31,6
+Japanese,F,32,1
+Japanese,F,33,6
+Japanese,F,34,5
+Japanese,F,35,5
+Japanese,F,36,1
+Japanese,F,37,5
+Japanese,F,38,3
+Japanese,F,39,7
+Japanese,F,40,4
+Japanese,F,41,7
+Japanese,F,42,2
+Japanese,F,43,2
+Japanese,F,44,3
+Japanese,F,45,8
+Japanese,F,46,1
+Japanese,F,47,6
+Japanese,F,48,4
+Japanese,F,49,8
+Japanese,F,50,5
+Japanese,F,51,2
+Japanese,F,52,3
+Japanese,F,53,4
+Japanese,F,54,3
+Japanese,F,55,2
+Japanese,F,56,2
+Japanese,F,57,4
+Japanese,F,58,4
+Japanese,F,59,5
+Japanese,F,61,2
+Japanese,F,62,5
+Japanese,F,63,4
+Japanese,F,64,5
+Japanese,F,65,3
+Japanese,F,66,4
+Japanese,F,67,2
+Japanese,F,69,2
+Japanese,F,70,1
+Japanese,F,71,1
+Japanese,F,72,1
+Japanese,F,73,1
+Japanese,F,75,2
+Japanese,F,78,1
+Japanese,F,80,1
+Japanese,F,82,1
+Japanese,F,83,1
+Japanese,F,86,1
+Japanese,F,90,1
+Japanese,M,,194
+Japanese,M,9,1
+Japanese,M,18,2
+Japanese,M,19,1
+Japanese,M,20,2
+Japanese,M,21,3
+Japanese,M,22,4
+Japanese,M,23,6
+Japanese,M,24,4
+Japanese,M,25,5
+Japanese,M,26,3
+Japanese,M,27,7
+Japanese,M,28,5
+Japanese,M,29,4
+Japanese,M,30,4
+Japanese,M,31,2
+Japanese,M,32,4
+Japanese,M,33,4
+Japanese,M,34,4
+Japanese,M,35,5
+Japanese,M,36,5
+Japanese,M,37,4
+Japanese,M,38,10
+Japanese,M,39,4
+Japanese,M,40,8
+Japanese,M,41,5
+Japanese,M,42,3
+Japanese,M,43,4
+Japanese,M,44,4
+Japanese,M,45,2
+Japanese,M,46,2
+Japanese,M,47,4
+Japanese,M,48,2
+Japanese,M,49,5
+Japanese,M,50,3
+Japanese,M,51,4
+Japanese,M,53,2
+Japanese,M,54,5
+Japanese,M,55,4
+Japanese,M,56,2
+Japanese,M,57,4
+Japanese,M,58,5
+Japanese,M,59,2
+Japanese,M,60,3
+Japanese,M,61,2
+Japanese,M,62,3
+Japanese,M,64,1
+Japanese,M,65,1
+Japanese,M,66,4
+Japanese,M,67,2
+Japanese,M,68,1
+Japanese,M,69,1
+Japanese,M,70,2
+Japanese,M,71,1
+Japanese,M,72,2
+Japanese,M,73,1
+Japanese,M,75,2
+Japanese,M,77,2
+Japanese,M,81,1
+Japanese,M,85,1
+Japanese,M,99,1
+Japanese,X,,1
+Japanese,X,23,1
+Korean,,,1621
+Korean,,0,8
+Korean,,5,1
+Korean,,6,1
+Korean,,18,8
+Korean,,19,11
+Korean,,20,9
+Korean,,21,18
+Korean,,22,20
+Korean,,23,22
+Korean,,24,37
+Korean,,25,34
+Korean,,26,38
+Korean,,27,42
+Korean,,28,52
+Korean,,29,64
+Korean,,30,55
+Korean,,31,53
+Korean,,32,45
+Korean,,33,56
+Korean,,34,63
+Korean,,35,44
+Korean,,36,44
+Korean,,37,46
+Korean,,38,47
+Korean,,39,46
+Korean,,40,38
+Korean,,41,35
+Korean,,42,35
+Korean,,43,30
+Korean,,44,26
+Korean,,45,22
+Korean,,46,23
+Korean,,47,30
+Korean,,48,35
+Korean,,49,29
+Korean,,50,26
+Korean,,51,21
+Korean,,52,25
+Korean,,53,20
+Korean,,54,28
+Korean,,55,18
+Korean,,56,16
+Korean,,57,10
+Korean,,58,21
+Korean,,59,18
+Korean,,60,17
+Korean,,61,22
+Korean,,62,21
+Korean,,63,15
+Korean,,64,17
+Korean,,65,17
+Korean,,66,23
+Korean,,67,16
+Korean,,68,10
+Korean,,69,10
+Korean,,70,7
+Korean,,71,7
+Korean,,72,9
+Korean,,73,8
+Korean,,74,7
+Korean,,75,4
+Korean,,76,3
+Korean,,77,8
+Korean,,78,10
+Korean,,79,3
+Korean,,80,1
+Korean,,82,1
+Korean,,83,3
+Korean,,84,1
+Korean,,85,3
+Korean,,86,2
+Korean,,87,2
+Korean,,90,3
+Korean,,92,1
+Korean,F,,761
+Korean,F,0,3
+Korean,F,5,1
+Korean,F,6,1
+Korean,F,18,3
+Korean,F,19,7
+Korean,F,20,4
+Korean,F,21,8
+Korean,F,22,10
+Korean,F,23,16
+Korean,F,24,21
+Korean,F,25,19
+Korean,F,26,20
+Korean,F,27,23
+Korean,F,28,18
+Korean,F,29,30
+Korean,F,30,29
+Korean,F,31,26
+Korean,F,32,19
+Korean,F,33,26
+Korean,F,34,25
+Korean,F,35,17
+Korean,F,36,16
+Korean,F,37,24
+Korean,F,38,17
+Korean,F,39,20
+Korean,F,40,15
+Korean,F,41,15
+Korean,F,42,12
+Korean,F,43,13
+Korean,F,44,13
+Korean,F,45,11
+Korean,F,46,7
+Korean,F,47,18
+Korean,F,48,14
+Korean,F,49,12
+Korean,F,50,13
+Korean,F,51,9
+Korean,F,52,14
+Korean,F,53,12
+Korean,F,54,11
+Korean,F,55,3
+Korean,F,56,8
+Korean,F,57,5
+Korean,F,58,11
+Korean,F,59,13
+Korean,F,60,9
+Korean,F,61,13
+Korean,F,62,8
+Korean,F,63,7
+Korean,F,64,7
+Korean,F,65,9
+Korean,F,66,12
+Korean,F,67,6
+Korean,F,68,6
+Korean,F,69,3
+Korean,F,70,4
+Korean,F,71,5
+Korean,F,72,4
+Korean,F,73,5
+Korean,F,75,2
+Korean,F,76,1
+Korean,F,77,5
+Korean,F,78,7
+Korean,F,79,2
+Korean,F,80,1
+Korean,F,83,3
+Korean,F,85,3
+Korean,F,86,2
+Korean,F,87,2
+Korean,F,90,2
+Korean,F,92,1
+Korean,M,,858
+Korean,M,0,5
+Korean,M,18,5
+Korean,M,19,4
+Korean,M,20,5
+Korean,M,21,10
+Korean,M,22,10
+Korean,M,23,6
+Korean,M,24,16
+Korean,M,25,15
+Korean,M,26,17
+Korean,M,27,19
+Korean,M,28,34
+Korean,M,29,34
+Korean,M,30,26
+Korean,M,31,27
+Korean,M,32,26
+Korean,M,33,29
+Korean,M,34,38
+Korean,M,35,27
+Korean,M,36,28
+Korean,M,37,22
+Korean,M,38,30
+Korean,M,39,26
+Korean,M,40,23
+Korean,M,41,20
+Korean,M,42,23
+Korean,M,43,17
+Korean,M,44,13
+Korean,M,45,11
+Korean,M,46,16
+Korean,M,47,12
+Korean,M,48,21
+Korean,M,49,17
+Korean,M,50,13
+Korean,M,51,12
+Korean,M,52,11
+Korean,M,53,8
+Korean,M,54,17
+Korean,M,55,15
+Korean,M,56,8
+Korean,M,57,5
+Korean,M,58,10
+Korean,M,59,5
+Korean,M,60,8
+Korean,M,61,9
+Korean,M,62,13
+Korean,M,63,8
+Korean,M,64,10
+Korean,M,65,8
+Korean,M,66,11
+Korean,M,67,10
+Korean,M,68,4
+Korean,M,69,7
+Korean,M,70,3
+Korean,M,71,2
+Korean,M,72,5
+Korean,M,73,3
+Korean,M,74,7
+Korean,M,75,2
+Korean,M,76,2
+Korean,M,77,3
+Korean,M,78,3
+Korean,M,79,1
+Korean,M,82,1
+Korean,M,84,1
+Korean,M,90,1
+Korean,X,,2
+Korean,X,26,1
+Korean,X,33,1
+Laotian,,,22
+Laotian,,18,1
+Laotian,,22,2
+Laotian,,24,4
+Laotian,,25,1
+Laotian,,26,1
+Laotian,,27,1
+Laotian,,28,1
+Laotian,,29,1
+Laotian,,30,2
+Laotian,,33,1
+Laotian,,35,2
+Laotian,,37,2
+Laotian,,39,1
+Laotian,,41,1
+Laotian,,46,1
+Laotian,F,,15
+Laotian,F,18,1
+Laotian,F,22,1
+Laotian,F,24,3
+Laotian,F,25,1
+Laotian,F,26,1
+Laotian,F,27,1
+Laotian,F,29,1
+Laotian,F,30,1
+Laotian,F,35,1
+Laotian,F,37,2
+Laotian,F,41,1
+Laotian,F,46,1
+Laotian,H,,1
+Laotian,H,22,1
+Laotian,M,,6
+Laotian,M,24,1
+Laotian,M,28,1
+Laotian,M,30,1
+Laotian,M,33,1
+Laotian,M,35,1
+Laotian,M,39,1
+Other,,,22164
+Other,,-1,2
+Other,,0,3493
+Other,,2,9
+Other,,3,11
+Other,,4,6
+Other,,5,9
+Other,,6,6
+Other,,7,5
+Other,,8,4
+Other,,9,8
+Other,,10,5
+Other,,11,20
+Other,,12,15
+Other,,13,22
+Other,,14,43
+Other,,15,34
+Other,,16,43
+Other,,17,43
+Other,,18,101
+Other,,19,212
+Other,,20,287
+Other,,21,246
+Other,,22,270
+Other,,23,327
+Other,,24,342
+Other,,25,451
+Other,,26,409
+Other,,27,431
+Other,,28,505
+Other,,29,471
+Other,,30,540
+Other,,31,547
+Other,,32,525
+Other,,33,553
+Other,,34,479
+Other,,35,488
+Other,,36,490
+Other,,37,504
+Other,,38,435
+Other,,39,468
+Other,,40,491
+Other,,41,459
+Other,,42,421
+Other,,43,365
+Other,,44,388
+Other,,45,334
+Other,,46,345
+Other,,47,335
+Other,,48,298
+Other,,49,289
+Other,,50,304
+Other,,51,304
+Other,,52,288
+Other,,53,281
+Other,,54,235
+Other,,55,252
+Other,,56,263
+Other,,57,242
+Other,,58,232
+Other,,59,256
+Other,,60,214
+Other,,61,197
+Other,,62,221
+Other,,63,194
+Other,,64,212
+Other,,65,184
+Other,,66,177
+Other,,67,170
+Other,,68,174
+Other,,69,144
+Other,,70,136
+Other,,71,106
+Other,,72,103
+Other,,73,91
+Other,,74,78
+Other,,75,67
+Other,,76,68
+Other,,77,49
+Other,,78,56
+Other,,79,40
+Other,,80,45
+Other,,81,24
+Other,,82,26
+Other,,83,37
+Other,,84,9
+Other,,85,28
+Other,,86,21
+Other,,87,6
+Other,,88,8
+Other,,89,4
+Other,,90,5
+Other,,91,2
+Other,,92,3
+Other,,93,2
+Other,,94,3
+Other,,95,2
+Other,,96,2
+Other,,97,2
+Other,,98,2
+Other,,99,11
+Other,F,,8048
+Other,F,-1,1
+Other,F,0,142
+Other,F,2,5
+Other,F,3,1
+Other,F,4,3
+Other,F,5,1
+Other,F,6,3
+Other,F,7,2
+Other,F,8,1
+Other,F,9,5
+Other,F,10,2
+Other,F,11,9
+Other,F,12,10
+Other,F,13,15
+Other,F,14,27
+Other,F,15,21
+Other,F,16,22
+Other,F,17,24
+Other,F,18,48
+Other,F,19,72
+Other,F,20,76
+Other,F,21,109
+Other,F,22,125
+Other,F,23,157
+Other,F,24,152
+Other,F,25,199
+Other,F,26,187
+Other,F,27,197
+Other,F,28,229
+Other,F,29,207
+Other,F,30,237
+Other,F,31,260
+Other,F,32,240
+Other,F,33,269
+Other,F,34,234
+Other,F,35,226
+Other,F,36,200
+Other,F,37,198
+Other,F,38,194
+Other,F,39,197
+Other,F,40,197
+Other,F,41,173
+Other,F,42,175
+Other,F,43,154
+Other,F,44,151
+Other,F,45,136
+Other,F,46,136
+Other,F,47,151
+Other,F,48,116
+Other,F,49,117
+Other,F,50,143
+Other,F,51,111
+Other,F,52,115
+Other,F,53,120
+Other,F,54,109
+Other,F,55,86
+Other,F,56,104
+Other,F,57,106
+Other,F,58,93
+Other,F,59,96
+Other,F,60,76
+Other,F,61,72
+Other,F,62,94
+Other,F,63,76
+Other,F,64,76
+Other,F,65,73
+Other,F,66,59
+Other,F,67,74
+Other,F,68,60
+Other,F,69,55
+Other,F,70,43
+Other,F,71,45
+Other,F,72,48
+Other,F,73,40
+Other,F,74,31
+Other,F,75,27
+Other,F,76,29
+Other,F,77,16
+Other,F,78,23
+Other,F,79,17
+Other,F,80,21
+Other,F,81,9
+Other,F,82,13
+Other,F,83,18
+Other,F,84,4
+Other,F,85,17
+Other,F,86,12
+Other,F,87,3
+Other,F,88,5
+Other,F,89,2
+Other,F,90,1
+Other,F,91,2
+Other,F,92,2
+Other,F,94,1
+Other,F,95,1
+Other,F,96,2
+Other,F,97,2
+Other,F,98,2
+Other,F,99,1
+Other,H,,2
+Other,H,44,1
+Other,H,68,1
+Other,M,,14086
+Other,M,-1,1
+Other,M,0,3350
+Other,M,2,4
+Other,M,3,10
+Other,M,4,3
+Other,M,5,8
+Other,M,6,3
+Other,M,7,3
+Other,M,8,3
+Other,M,9,3
+Other,M,10,3
+Other,M,11,11
+Other,M,12,5
+Other,M,13,7
+Other,M,14,16
+Other,M,15,13
+Other,M,16,21
+Other,M,17,19
+Other,M,18,53
+Other,M,19,139
+Other,M,20,211
+Other,M,21,136
+Other,M,22,144
+Other,M,23,168
+Other,M,24,189
+Other,M,25,251
+Other,M,26,221
+Other,M,27,234
+Other,M,28,274
+Other,M,29,264
+Other,M,30,300
+Other,M,31,287
+Other,M,32,284
+Other,M,33,282
+Other,M,34,244
+Other,M,35,262
+Other,M,36,290
+Other,M,37,306
+Other,M,38,241
+Other,M,39,270
+Other,M,40,294
+Other,M,41,286
+Other,M,42,246
+Other,M,43,208
+Other,M,44,234
+Other,M,45,198
+Other,M,46,209
+Other,M,47,184
+Other,M,48,181
+Other,M,49,171
+Other,M,50,161
+Other,M,51,193
+Other,M,52,173
+Other,M,53,161
+Other,M,54,126
+Other,M,55,166
+Other,M,56,159
+Other,M,57,136
+Other,M,58,138
+Other,M,59,159
+Other,M,60,138
+Other,M,61,125
+Other,M,62,127
+Other,M,63,118
+Other,M,64,136
+Other,M,65,111
+Other,M,66,118
+Other,M,67,96
+Other,M,68,113
+Other,M,69,89
+Other,M,70,93
+Other,M,71,61
+Other,M,72,55
+Other,M,73,51
+Other,M,74,47
+Other,M,75,40
+Other,M,76,39
+Other,M,77,33
+Other,M,78,33
+Other,M,79,23
+Other,M,80,24
+Other,M,81,15
+Other,M,82,13
+Other,M,83,19
+Other,M,84,5
+Other,M,85,11
+Other,M,86,9
+Other,M,87,3
+Other,M,88,3
+Other,M,89,2
+Other,M,90,4
+Other,M,92,1
+Other,M,93,2
+Other,M,94,2
+Other,M,95,1
+Other,M,99,10
+Other,X,,28
+Other,X,0,1
+Other,X,19,1
+Other,X,21,1
+Other,X,22,1
+Other,X,23,2
+Other,X,24,1
+Other,X,25,1
+Other,X,26,1
+Other,X,28,2
+Other,X,30,3
+Other,X,32,1
+Other,X,33,2
+Other,X,34,1
+Other,X,39,1
+Other,X,43,3
+Other,X,44,2
+Other,X,48,1
+Other,X,49,1
+Other,X,58,1
+Other,X,59,1
+Other Asian,,,6049
+Other Asian,,0,96
+Other Asian,,2,1
+Other Asian,,3,2
+Other Asian,,4,1
+Other Asian,,5,1
+Other Asian,,7,2
+Other Asian,,8,1
+Other Asian,,10,3
+Other Asian,,11,5
+Other Asian,,12,4
+Other Asian,,13,4
+Other Asian,,14,10
+Other Asian,,15,11
+Other Asian,,16,15
+Other Asian,,17,13
+Other Asian,,18,29
+Other Asian,,19,61
+Other Asian,,20,71
+Other Asian,,21,120
+Other Asian,,22,117
+Other Asian,,23,140
+Other Asian,,24,153
+Other Asian,,25,164
+Other Asian,,26,116
+Other Asian,,27,154
+Other Asian,,28,145
+Other Asian,,29,192
+Other Asian,,30,189
+Other Asian,,31,187
+Other Asian,,32,177
+Other Asian,,33,156
+Other Asian,,34,169
+Other Asian,,35,142
+Other Asian,,36,105
+Other Asian,,37,136
+Other Asian,,38,93
+Other Asian,,39,106
+Other Asian,,40,122
+Other Asian,,41,116
+Other Asian,,42,100
+Other Asian,,43,86
+Other Asian,,44,89
+Other Asian,,45,102
+Other Asian,,46,101
+Other Asian,,47,106
+Other Asian,,48,112
+Other Asian,,49,87
+Other Asian,,50,112
+Other Asian,,51,111
+Other Asian,,52,78
+Other Asian,,53,97
+Other Asian,,54,71
+Other Asian,,55,61
+Other Asian,,56,78
+Other Asian,,57,85
+Other Asian,,58,72
+Other Asian,,59,81
+Other Asian,,60,87
+Other Asian,,61,60
+Other Asian,,62,69
+Other Asian,,63,60
+Other Asian,,64,82
+Other Asian,,65,70
+Other Asian,,66,65
+Other Asian,,67,59
+Other Asian,,68,45
+Other Asian,,69,46
+Other Asian,,70,41
+Other Asian,,71,49
+Other Asian,,72,37
+Other Asian,,73,31
+Other Asian,,74,41
+Other Asian,,75,40
+Other Asian,,76,22
+Other Asian,,77,23
+Other Asian,,78,26
+Other Asian,,79,17
+Other Asian,,80,20
+Other Asian,,81,13
+Other Asian,,82,14
+Other Asian,,83,14
+Other Asian,,84,14
+Other Asian,,85,12
+Other Asian,,86,7
+Other Asian,,87,6
+Other Asian,,88,3
+Other Asian,,90,6
+Other Asian,,91,2
+Other Asian,,92,1
+Other Asian,,93,3
+Other Asian,,95,1
+Other Asian,,97,1
+Other Asian,,99,4
+Other Asian,F,,2929
+Other Asian,F,0,26
+Other Asian,F,3,2
+Other Asian,F,4,1
+Other Asian,F,7,1
+Other Asian,F,10,2
+Other Asian,F,11,3
+Other Asian,F,12,2
+Other Asian,F,13,1
+Other Asian,F,14,3
+Other Asian,F,15,5
+Other Asian,F,16,10
+Other Asian,F,17,4
+Other Asian,F,18,11
+Other Asian,F,19,22
+Other Asian,F,20,33
+Other Asian,F,21,58
+Other Asian,F,22,54
+Other Asian,F,23,68
+Other Asian,F,24,84
+Other Asian,F,25,91
+Other Asian,F,26,56
+Other Asian,F,27,85
+Other Asian,F,28,82
+Other Asian,F,29,101
+Other Asian,F,30,92
+Other Asian,F,31,96
+Other Asian,F,32,87
+Other Asian,F,33,77
+Other Asian,F,34,65
+Other Asian,F,35,71
+Other Asian,F,36,56
+Other Asian,F,37,68
+Other Asian,F,38,44
+Other Asian,F,39,56
+Other Asian,F,40,51
+Other Asian,F,41,57
+Other Asian,F,42,51
+Other Asian,F,43,41
+Other Asian,F,44,38
+Other Asian,F,45,53
+Other Asian,F,46,48
+Other Asian,F,47,50
+Other Asian,F,48,60
+Other Asian,F,49,38
+Other Asian,F,50,61
+Other Asian,F,51,54
+Other Asian,F,52,38
+Other Asian,F,53,51
+Other Asian,F,54,35
+Other Asian,F,55,24
+Other Asian,F,56,27
+Other Asian,F,57,41
+Other Asian,F,58,41
+Other Asian,F,59,33
+Other Asian,F,60,37
+Other Asian,F,61,26
+Other Asian,F,62,29
+Other Asian,F,63,24
+Other Asian,F,64,34
+Other Asian,F,65,35
+Other Asian,F,66,32
+Other Asian,F,67,30
+Other Asian,F,68,21
+Other Asian,F,69,21
+Other Asian,F,70,17
+Other Asian,F,71,20
+Other Asian,F,72,14
+Other Asian,F,73,17
+Other Asian,F,74,25
+Other Asian,F,75,19
+Other Asian,F,76,17
+Other Asian,F,77,13
+Other Asian,F,78,13
+Other Asian,F,79,7
+Other Asian,F,80,12
+Other Asian,F,81,4
+Other Asian,F,82,10
+Other Asian,F,83,9
+Other Asian,F,84,9
+Other Asian,F,85,7
+Other Asian,F,86,5
+Other Asian,F,87,5
+Other Asian,F,88,1
+Other Asian,F,90,3
+Other Asian,F,93,1
+Other Asian,F,95,1
+Other Asian,F,97,1
+Other Asian,F,99,1
+Other Asian,M,,3117
+Other Asian,M,0,70
+Other Asian,M,2,1
+Other Asian,M,5,1
+Other Asian,M,7,1
+Other Asian,M,8,1
+Other Asian,M,10,1
+Other Asian,M,11,2
+Other Asian,M,12,2
+Other Asian,M,13,3
+Other Asian,M,14,7
+Other Asian,M,15,6
+Other Asian,M,16,5
+Other Asian,M,17,9
+Other Asian,M,18,18
+Other Asian,M,19,39
+Other Asian,M,20,38
+Other Asian,M,21,62
+Other Asian,M,22,63
+Other Asian,M,23,72
+Other Asian,M,24,69
+Other Asian,M,25,72
+Other Asian,M,26,60
+Other Asian,M,27,69
+Other Asian,M,28,63
+Other Asian,M,29,91
+Other Asian,M,30,97
+Other Asian,M,31,90
+Other Asian,M,32,90
+Other Asian,M,33,79
+Other Asian,M,34,104
+Other Asian,M,35,71
+Other Asian,M,36,49
+Other Asian,M,37,68
+Other Asian,M,38,49
+Other Asian,M,39,50
+Other Asian,M,40,71
+Other Asian,M,41,59
+Other Asian,M,42,49
+Other Asian,M,43,45
+Other Asian,M,44,51
+Other Asian,M,45,48
+Other Asian,M,46,53
+Other Asian,M,47,56
+Other Asian,M,48,52
+Other Asian,M,49,49
+Other Asian,M,50,51
+Other Asian,M,51,57
+Other Asian,M,52,40
+Other Asian,M,53,46
+Other Asian,M,54,36
+Other Asian,M,55,37
+Other Asian,M,56,51
+Other Asian,M,57,44
+Other Asian,M,58,31
+Other Asian,M,59,48
+Other Asian,M,60,50
+Other Asian,M,61,34
+Other Asian,M,62,40
+Other Asian,M,63,36
+Other Asian,M,64,48
+Other Asian,M,65,35
+Other Asian,M,66,33
+Other Asian,M,67,29
+Other Asian,M,68,24
+Other Asian,M,69,25
+Other Asian,M,70,24
+Other Asian,M,71,29
+Other Asian,M,72,23
+Other Asian,M,73,14
+Other Asian,M,74,16
+Other Asian,M,75,21
+Other Asian,M,76,5
+Other Asian,M,77,10
+Other Asian,M,78,13
+Other Asian,M,79,10
+Other Asian,M,80,8
+Other Asian,M,81,9
+Other Asian,M,82,4
+Other Asian,M,83,5
+Other Asian,M,84,5
+Other Asian,M,85,5
+Other Asian,M,86,2
+Other Asian,M,87,1
+Other Asian,M,88,2
+Other Asian,M,90,3
+Other Asian,M,91,2
+Other Asian,M,92,1
+Other Asian,M,93,2
+Other Asian,M,99,3
+Other Asian,X,,3
+Other Asian,X,25,1
+Other Asian,X,31,1
+Other Asian,X,45,1
+Pacific Islander,,,84
+Pacific Islander,,10,1
+Pacific Islander,,16,1
+Pacific Islander,,18,1
+Pacific Islander,,20,1
+Pacific Islander,,22,3
+Pacific Islander,,23,2
+Pacific Islander,,24,2
+Pacific Islander,,25,5
+Pacific Islander,,26,1
+Pacific Islander,,27,1
+Pacific Islander,,28,4
+Pacific Islander,,29,6
+Pacific Islander,,30,6
+Pacific Islander,,31,3
+Pacific Islander,,32,3
+Pacific Islander,,33,3
+Pacific Islander,,34,3
+Pacific Islander,,35,2
+Pacific Islander,,36,2
+Pacific Islander,,37,2
+Pacific Islander,,38,2
+Pacific Islander,,39,1
+Pacific Islander,,40,1
+Pacific Islander,,41,1
+Pacific Islander,,43,1
+Pacific Islander,,45,2
+Pacific Islander,,48,1
+Pacific Islander,,49,3
+Pacific Islander,,50,1
+Pacific Islander,,53,2
+Pacific Islander,,54,2
+Pacific Islander,,55,2
+Pacific Islander,,60,1
+Pacific Islander,,61,1
+Pacific Islander,,62,1
+Pacific Islander,,63,2
+Pacific Islander,,65,1
+Pacific Islander,,66,3
+Pacific Islander,,67,1
+Pacific Islander,,68,1
+Pacific Islander,,70,1
+Pacific Islander,,79,1
+Pacific Islander,F,,48
+Pacific Islander,F,10,1
+Pacific Islander,F,16,1
+Pacific Islander,F,20,1
+Pacific Islander,F,22,3
+Pacific Islander,F,23,2
+Pacific Islander,F,24,1
+Pacific Islander,F,25,3
+Pacific Islander,F,28,2
+Pacific Islander,F,29,5
+Pacific Islander,F,30,5
+Pacific Islander,F,31,2
+Pacific Islander,F,32,1
+Pacific Islander,F,33,2
+Pacific Islander,F,34,2
+Pacific Islander,F,36,2
+Pacific Islander,F,37,1
+Pacific Islander,F,38,1
+Pacific Islander,F,39,1
+Pacific Islander,F,45,1
+Pacific Islander,F,49,2
+Pacific Islander,F,50,1
+Pacific Islander,F,54,1
+Pacific Islander,F,60,1
+Pacific Islander,F,62,1
+Pacific Islander,F,63,1
+Pacific Islander,F,66,2
+Pacific Islander,F,67,1
+Pacific Islander,F,70,1
+Pacific Islander,M,,36
+Pacific Islander,M,18,1
+Pacific Islander,M,24,1
+Pacific Islander,M,25,2
+Pacific Islander,M,26,1
+Pacific Islander,M,27,1
+Pacific Islander,M,28,2
+Pacific Islander,M,29,1
+Pacific Islander,M,30,1
+Pacific Islander,M,31,1
+Pacific Islander,M,32,2
+Pacific Islander,M,33,1
+Pacific Islander,M,34,1
+Pacific Islander,M,35,2
+Pacific Islander,M,37,1
+Pacific Islander,M,38,1
+Pacific Islander,M,40,1
+Pacific Islander,M,41,1
+Pacific Islander,M,43,1
+Pacific Islander,M,45,1
+Pacific Islander,M,48,1
+Pacific Islander,M,49,1
+Pacific Islander,M,53,2
+Pacific Islander,M,54,1
+Pacific Islander,M,55,2
+Pacific Islander,M,61,1
+Pacific Islander,M,63,1
+Pacific Islander,M,65,1
+Pacific Islander,M,66,1
+Pacific Islander,M,68,1
+Pacific Islander,M,79,1
+Samoan,,,22
+Samoan,,20,2
+Samoan,,25,1
+Samoan,,26,1
+Samoan,,27,1
+Samoan,,28,1
+Samoan,,29,1
+Samoan,,31,1
+Samoan,,34,2
+Samoan,,39,1
+Samoan,,42,1
+Samoan,,44,2
+Samoan,,45,2
+Samoan,,50,1
+Samoan,,54,1
+Samoan,,56,1
+Samoan,,64,1
+Samoan,,67,2
+Samoan,F,,14
+Samoan,F,20,1
+Samoan,F,25,1
+Samoan,F,26,1
+Samoan,F,27,1
+Samoan,F,28,1
+Samoan,F,29,1
+Samoan,F,31,1
+Samoan,F,34,1
+Samoan,F,42,1
+Samoan,F,50,1
+Samoan,F,56,1
+Samoan,F,64,1
+Samoan,F,67,2
+Samoan,M,,8
+Samoan,M,20,1
+Samoan,M,34,1
+Samoan,M,39,1
+Samoan,M,44,2
+Samoan,M,45,2
+Samoan,M,54,1
+Unknown,,,26015
+Unknown,,-2,3
+Unknown,,-1,19
+Unknown,,0,21741
+Unknown,,2,9
+Unknown,,3,4
+Unknown,,4,4
+Unknown,,5,1
+Unknown,,6,1
+Unknown,,7,2
+Unknown,,8,1
+Unknown,,9,4
+Unknown,,10,11
+Unknown,,11,9
+Unknown,,12,7
+Unknown,,13,8
+Unknown,,14,4
+Unknown,,15,9
+Unknown,,16,6
+Unknown,,17,10
+Unknown,,18,16
+Unknown,,19,391
+Unknown,,20,369
+Unknown,,21,570
+Unknown,,22,605
+Unknown,,23,50
+Unknown,,24,37
+Unknown,,25,37
+Unknown,,26,45
+Unknown,,27,41
+Unknown,,28,48
+Unknown,,29,46
+Unknown,,30,69
+Unknown,,31,53
+Unknown,,32,37
+Unknown,,33,40
+Unknown,,34,42
+Unknown,,35,829
+Unknown,,36,26
+Unknown,,37,33
+Unknown,,38,37
+Unknown,,39,40
+Unknown,,40,32
+Unknown,,41,29
+Unknown,,42,32
+Unknown,,43,22
+Unknown,,44,21
+Unknown,,45,45
+Unknown,,46,62
+Unknown,,47,94
+Unknown,,48,28
+Unknown,,49,28
+Unknown,,50,28
+Unknown,,51,23
+Unknown,,52,21
+Unknown,,53,20
+Unknown,,54,22
+Unknown,,55,22
+Unknown,,56,16
+Unknown,,57,13
+Unknown,,58,17
+Unknown,,59,12
+Unknown,,60,10
+Unknown,,61,8
+Unknown,,62,9
+Unknown,,63,9
+Unknown,,64,8
+Unknown,,65,7
+Unknown,,66,6
+Unknown,,67,6
+Unknown,,68,3
+Unknown,,69,7
+Unknown,,70,2
+Unknown,,71,1
+Unknown,,72,1
+Unknown,,73,3
+Unknown,,74,2
+Unknown,,75,1
+Unknown,,76,2
+Unknown,,77,1
+Unknown,,78,4
+Unknown,,79,2
+Unknown,,80,2
+Unknown,,81,1
+Unknown,,82,3
+Unknown,,85,1
+Unknown,,87,1
+Unknown,,88,1
+Unknown,,90,1
+Unknown,,93,1
+Unknown,,97,1
+Unknown,,98,4
+Unknown,,99,6
+Unknown,F,,462
+Unknown,F,0,126
+Unknown,F,2,1
+Unknown,F,5,1
+Unknown,F,9,2
+Unknown,F,11,1
+Unknown,F,13,2
+Unknown,F,14,1
+Unknown,F,15,1
+Unknown,F,16,1
+Unknown,F,17,4
+Unknown,F,18,6
+Unknown,F,19,8
+Unknown,F,20,15
+Unknown,F,21,10
+Unknown,F,22,15
+Unknown,F,23,6
+Unknown,F,24,11
+Unknown,F,25,7
+Unknown,F,26,8
+Unknown,F,27,13
+Unknown,F,28,13
+Unknown,F,29,11
+Unknown,F,30,11
+Unknown,F,31,15
+Unknown,F,32,11
+Unknown,F,33,5
+Unknown,F,34,13
+Unknown,F,35,9
+Unknown,F,36,4
+Unknown,F,37,8
+Unknown,F,38,9
+Unknown,F,39,8
+Unknown,F,40,6
+Unknown,F,41,5
+Unknown,F,42,9
+Unknown,F,43,2
+Unknown,F,44,4
+Unknown,F,45,10
+Unknown,F,46,4
+Unknown,F,47,5
+Unknown,F,48,3
+Unknown,F,49,6
+Unknown,F,50,4
+Unknown,F,51,4
+Unknown,F,52,5
+Unknown,F,53,1
+Unknown,F,54,4
+Unknown,F,55,3
+Unknown,F,56,1
+Unknown,F,57,2
+Unknown,F,58,2
+Unknown,F,59,2
+Unknown,F,60,3
+Unknown,F,61,1
+Unknown,F,62,2
+Unknown,F,63,2
+Unknown,F,64,2
+Unknown,F,65,3
+Unknown,F,66,2
+Unknown,F,68,1
+Unknown,F,69,2
+Unknown,F,70,1
+Unknown,F,73,1
+Unknown,F,76,1
+Unknown,F,80,2
+Unknown,F,85,1
+Unknown,H,,2
+Unknown,H,27,1
+Unknown,H,41,1
+Unknown,M,,2237
+Unknown,M,0,536
+Unknown,M,2,1
+Unknown,M,3,1
+Unknown,M,4,1
+Unknown,M,10,2
+Unknown,M,11,3
+Unknown,M,12,4
+Unknown,M,15,3
+Unknown,M,16,1
+Unknown,M,18,4
+Unknown,M,19,13
+Unknown,M,20,21
+Unknown,M,21,31
+Unknown,M,22,27
+Unknown,M,23,18
+Unknown,M,24,17
+Unknown,M,25,20
+Unknown,M,26,22
+Unknown,M,27,15
+Unknown,M,28,25
+Unknown,M,29,22
+Unknown,M,30,46
+Unknown,M,31,28
+Unknown,M,32,14
+Unknown,M,33,24
+Unknown,M,34,19
+Unknown,M,35,814
+Unknown,M,36,15
+Unknown,M,37,19
+Unknown,M,38,15
+Unknown,M,39,22
+Unknown,M,40,19
+Unknown,M,41,12
+Unknown,M,42,15
+Unknown,M,43,14
+Unknown,M,44,10
+Unknown,M,45,31
+Unknown,M,46,52
+Unknown,M,47,85
+Unknown,M,48,23
+Unknown,M,49,13
+Unknown,M,50,15
+Unknown,M,51,15
+Unknown,M,52,9
+Unknown,M,53,14
+Unknown,M,54,12
+Unknown,M,55,13
+Unknown,M,56,7
+Unknown,M,57,5
+Unknown,M,58,11
+Unknown,M,59,8
+Unknown,M,60,4
+Unknown,M,61,4
+Unknown,M,62,5
+Unknown,M,63,4
+Unknown,M,64,5
+Unknown,M,65,3
+Unknown,M,66,3
+Unknown,M,67,5
+Unknown,M,68,1
+Unknown,M,69,3
+Unknown,M,70,1
+Unknown,M,71,1
+Unknown,M,72,1
+Unknown,M,73,2
+Unknown,M,74,1
+Unknown,M,75,1
+Unknown,M,76,1
+Unknown,M,77,1
+Unknown,M,78,2
+Unknown,M,79,1
+Unknown,M,81,1
+Unknown,M,97,1
+Unknown,X,,23314
+Unknown,X,-2,3
+Unknown,X,-1,19
+Unknown,X,0,21079
+Unknown,X,2,7
+Unknown,X,3,3
+Unknown,X,4,3
+Unknown,X,6,1
+Unknown,X,7,2
+Unknown,X,8,1
+Unknown,X,9,2
+Unknown,X,10,9
+Unknown,X,11,5
+Unknown,X,12,3
+Unknown,X,13,6
+Unknown,X,14,3
+Unknown,X,15,5
+Unknown,X,16,4
+Unknown,X,17,6
+Unknown,X,18,6
+Unknown,X,19,370
+Unknown,X,20,333
+Unknown,X,21,529
+Unknown,X,22,563
+Unknown,X,23,26
+Unknown,X,24,9
+Unknown,X,25,10
+Unknown,X,26,15
+Unknown,X,27,12
+Unknown,X,28,10
+Unknown,X,29,13
+Unknown,X,30,12
+Unknown,X,31,10
+Unknown,X,32,12
+Unknown,X,33,11
+Unknown,X,34,10
+Unknown,X,35,6
+Unknown,X,36,7
+Unknown,X,37,6
+Unknown,X,38,13
+Unknown,X,39,10
+Unknown,X,40,7
+Unknown,X,41,11
+Unknown,X,42,8
+Unknown,X,43,6
+Unknown,X,44,7
+Unknown,X,45,4
+Unknown,X,46,6
+Unknown,X,47,4
+Unknown,X,48,2
+Unknown,X,49,9
+Unknown,X,50,9
+Unknown,X,51,4
+Unknown,X,52,7
+Unknown,X,53,5
+Unknown,X,54,6
+Unknown,X,55,6
+Unknown,X,56,8
+Unknown,X,57,6
+Unknown,X,58,4
+Unknown,X,59,2
+Unknown,X,60,3
+Unknown,X,61,3
+Unknown,X,62,2
+Unknown,X,63,3
+Unknown,X,64,1
+Unknown,X,65,1
+Unknown,X,66,1
+Unknown,X,67,1
+Unknown,X,68,1
+Unknown,X,69,2
+Unknown,X,74,1
+Unknown,X,78,2
+Unknown,X,79,1
+Unknown,X,82,3
+Unknown,X,87,1
+Unknown,X,88,1
+Unknown,X,90,1
+Unknown,X,93,1
+Unknown,X,98,4
+Unknown,X,99,6
+Vietnamese,,,296
+Vietnamese,,0,1
+Vietnamese,,18,3
+Vietnamese,,19,2
+Vietnamese,,20,6
+Vietnamese,,21,7
+Vietnamese,,22,8
+Vietnamese,,23,9
+Vietnamese,,24,8
+Vietnamese,,25,17
+Vietnamese,,26,12
+Vietnamese,,27,14
+Vietnamese,,28,17
+Vietnamese,,29,11
+Vietnamese,,30,11
+Vietnamese,,31,16
+Vietnamese,,32,10
+Vietnamese,,33,6
+Vietnamese,,34,17
+Vietnamese,,35,11
+Vietnamese,,36,7
+Vietnamese,,37,5
+Vietnamese,,38,7
+Vietnamese,,39,3
+Vietnamese,,40,6
+Vietnamese,,41,6
+Vietnamese,,42,4
+Vietnamese,,43,9
+Vietnamese,,44,6
+Vietnamese,,45,3
+Vietnamese,,46,5
+Vietnamese,,47,7
+Vietnamese,,48,1
+Vietnamese,,49,6
+Vietnamese,,50,2
+Vietnamese,,51,2
+Vietnamese,,52,4
+Vietnamese,,53,2
+Vietnamese,,54,2
+Vietnamese,,55,3
+Vietnamese,,56,1
+Vietnamese,,57,2
+Vietnamese,,58,2
+Vietnamese,,59,3
+Vietnamese,,60,2
+Vietnamese,,62,2
+Vietnamese,,64,1
+Vietnamese,,71,2
+Vietnamese,,72,1
+Vietnamese,,73,2
+Vietnamese,,79,2
+Vietnamese,F,,147
+Vietnamese,F,0,1
+Vietnamese,F,18,2
+Vietnamese,F,19,2
+Vietnamese,F,20,4
+Vietnamese,F,21,5
+Vietnamese,F,22,3
+Vietnamese,F,23,7
+Vietnamese,F,24,3
+Vietnamese,F,25,9
+Vietnamese,F,26,5
+Vietnamese,F,27,11
+Vietnamese,F,28,6
+Vietnamese,F,29,3
+Vietnamese,F,30,5
+Vietnamese,F,31,8
+Vietnamese,F,32,7
+Vietnamese,F,33,2
+Vietnamese,F,34,5
+Vietnamese,F,35,5
+Vietnamese,F,36,4
+Vietnamese,F,37,1
+Vietnamese,F,38,5
+Vietnamese,F,39,1
+Vietnamese,F,40,5
+Vietnamese,F,41,2
+Vietnamese,F,42,2
+Vietnamese,F,43,4
+Vietnamese,F,44,4
+Vietnamese,F,46,1
+Vietnamese,F,47,3
+Vietnamese,F,49,3
+Vietnamese,F,50,1
+Vietnamese,F,51,1
+Vietnamese,F,52,2
+Vietnamese,F,54,1
+Vietnamese,F,55,2
+Vietnamese,F,57,1
+Vietnamese,F,58,2
+Vietnamese,F,60,2
+Vietnamese,F,62,2
+Vietnamese,F,71,2
+Vietnamese,F,72,1
+Vietnamese,F,73,1
+Vietnamese,F,79,1
+Vietnamese,M,,147
+Vietnamese,M,18,1
+Vietnamese,M,20,2
+Vietnamese,M,21,2
+Vietnamese,M,22,5
+Vietnamese,M,23,2
+Vietnamese,M,24,5
+Vietnamese,M,25,7
+Vietnamese,M,26,7
+Vietnamese,M,27,3
+Vietnamese,M,28,11
+Vietnamese,M,29,8
+Vietnamese,M,30,6
+Vietnamese,M,31,8
+Vietnamese,M,32,3
+Vietnamese,M,33,4
+Vietnamese,M,34,12
+Vietnamese,M,35,6
+Vietnamese,M,36,3
+Vietnamese,M,37,4
+Vietnamese,M,38,2
+Vietnamese,M,39,1
+Vietnamese,M,40,1
+Vietnamese,M,41,4
+Vietnamese,M,42,2
+Vietnamese,M,43,5
+Vietnamese,M,44,2
+Vietnamese,M,45,3
+Vietnamese,M,46,4
+Vietnamese,M,47,4
+Vietnamese,M,48,1
+Vietnamese,M,49,3
+Vietnamese,M,50,1
+Vietnamese,M,51,1
+Vietnamese,M,52,2
+Vietnamese,M,53,2
+Vietnamese,M,54,1
+Vietnamese,M,55,1
+Vietnamese,M,56,1
+Vietnamese,M,57,1
+Vietnamese,M,59,3
+Vietnamese,M,64,1
+Vietnamese,M,73,1
+Vietnamese,M,79,1
+Vietnamese,X,,2
+Vietnamese,X,25,1
+Vietnamese,X,39,1
+White,,,56553
+White,,-2,2
+White,,-1,3
+White,,0,3996
+White,,2,17
+White,,3,19
+White,,4,9
+White,,5,16
+White,,6,12
+White,,7,17
+White,,8,16
+White,,9,23
+White,,10,18
+White,,11,37
+White,,12,45
+White,,13,76
+White,,14,83
+White,,15,95
+White,,16,122
+White,,17,145
+White,,18,251
+White,,19,406
+White,,20,513
+White,,21,714
+White,,22,819
+White,,23,829
+White,,24,1033
+White,,25,1120
+White,,26,1118
+White,,27,1246
+White,,28,1318
+White,,29,1380
+White,,30,1519
+White,,31,1418
+White,,32,1419
+White,,33,1406
+White,,34,1335
+White,,35,1332
+White,,36,1301
+White,,37,1262
+White,,38,1204
+White,,39,1098
+White,,40,1139
+White,,41,1029
+White,,42,987
+White,,43,845
+White,,44,869
+White,,45,889
+White,,46,821
+White,,47,818
+White,,48,845
+White,,49,787
+White,,50,1279
+White,,51,911
+White,,52,873
+White,,53,878
+White,,54,835
+White,,55,832
+White,,56,788
+White,,57,765
+White,,58,826
+White,,59,820
+White,,60,712
+White,,61,688
+White,,62,677
+White,,63,625
+White,,64,578
+White,,65,578
+White,,66,572
+White,,67,485
+White,,68,439
+White,,69,430
+White,,70,401
+White,,71,354
+White,,72,383
+White,,73,359
+White,,74,314
+White,,75,258
+White,,76,264
+White,,77,223
+White,,78,192
+White,,79,184
+White,,80,176
+White,,81,156
+White,,82,122
+White,,83,111
+White,,84,95
+White,,85,90
+White,,86,79
+White,,87,55
+White,,88,53
+White,,89,56
+White,,90,48
+White,,91,35
+White,,92,30
+White,,93,21
+White,,94,17
+White,,95,14
+White,,96,13
+White,,97,5
+White,,98,12
+White,,99,21
+White,F,,23992
+White,F,-1,1
+White,F,0,195
+White,F,2,5
+White,F,3,12
+White,F,4,6
+White,F,5,10
+White,F,6,8
+White,F,7,12
+White,F,8,6
+White,F,9,16
+White,F,10,12
+White,F,11,27
+White,F,12,26
+White,F,13,48
+White,F,14,50
+White,F,15,60
+White,F,16,79
+White,F,17,75
+White,F,18,124
+White,F,19,235
+White,F,20,260
+White,F,21,359
+White,F,22,463
+White,F,23,437
+White,F,24,531
+White,F,25,597
+White,F,26,551
+White,F,27,618
+White,F,28,666
+White,F,29,652
+White,F,30,714
+White,F,31,664
+White,F,32,646
+White,F,33,661
+White,F,34,618
+White,F,35,581
+White,F,36,542
+White,F,37,574
+White,F,38,514
+White,F,39,452
+White,F,40,480
+White,F,41,433
+White,F,42,460
+White,F,43,374
+White,F,44,361
+White,F,45,390
+White,F,46,347
+White,F,47,358
+White,F,48,364
+White,F,49,345
+White,F,50,363
+White,F,51,409
+White,F,52,360
+White,F,53,362
+White,F,54,352
+White,F,55,340
+White,F,56,312
+White,F,57,336
+White,F,58,366
+White,F,59,359
+White,F,60,288
+White,F,61,269
+White,F,62,282
+White,F,63,239
+White,F,64,221
+White,F,65,252
+White,F,66,240
+White,F,67,194
+White,F,68,205
+White,F,69,179
+White,F,70,188
+White,F,71,145
+White,F,72,183
+White,F,73,157
+White,F,74,142
+White,F,75,114
+White,F,76,122
+White,F,77,111
+White,F,78,102
+White,F,79,83
+White,F,80,98
+White,F,81,97
+White,F,82,71
+White,F,83,55
+White,F,84,53
+White,F,85,48
+White,F,86,48
+White,F,87,29
+White,F,88,31
+White,F,89,37
+White,F,90,26
+White,F,91,21
+White,F,92,18
+White,F,93,13
+White,F,94,12
+White,F,95,9
+White,F,96,10
+White,F,97,4
+White,F,98,7
+White,F,99,11
+White,H,,2
+White,H,21,1
+White,H,35,1
+White,M,,32494
+White,M,-2,2
+White,M,-1,2
+White,M,0,3801
+White,M,2,12
+White,M,3,7
+White,M,4,3
+White,M,5,6
+White,M,6,4
+White,M,7,5
+White,M,8,10
+White,M,9,7
+White,M,10,6
+White,M,11,10
+White,M,12,19
+White,M,13,28
+White,M,14,33
+White,M,15,35
+White,M,16,42
+White,M,17,70
+White,M,18,127
+White,M,19,170
+White,M,20,252
+White,M,21,352
+White,M,22,356
+White,M,23,387
+White,M,24,501
+White,M,25,518
+White,M,26,564
+White,M,27,624
+White,M,28,644
+White,M,29,725
+White,M,30,803
+White,M,31,752
+White,M,32,770
+White,M,33,742
+White,M,34,715
+White,M,35,750
+White,M,36,756
+White,M,37,688
+White,M,38,688
+White,M,39,645
+White,M,40,657
+White,M,41,595
+White,M,42,527
+White,M,43,470
+White,M,44,508
+White,M,45,499
+White,M,46,473
+White,M,47,460
+White,M,48,481
+White,M,49,442
+White,M,50,914
+White,M,51,501
+White,M,52,513
+White,M,53,514
+White,M,54,483
+White,M,55,492
+White,M,56,476
+White,M,57,429
+White,M,58,459
+White,M,59,460
+White,M,60,424
+White,M,61,419
+White,M,62,395
+White,M,63,386
+White,M,64,357
+White,M,65,326
+White,M,66,332
+White,M,67,291
+White,M,68,234
+White,M,69,251
+White,M,70,213
+White,M,71,209
+White,M,72,200
+White,M,73,202
+White,M,74,172
+White,M,75,143
+White,M,76,142
+White,M,77,112
+White,M,78,90
+White,M,79,101
+White,M,80,78
+White,M,81,59
+White,M,82,51
+White,M,83,56
+White,M,84,42
+White,M,85,42
+White,M,86,31
+White,M,87,26
+White,M,88,22
+White,M,89,19
+White,M,90,22
+White,M,91,14
+White,M,92,12
+White,M,93,8
+White,M,94,5
+White,M,95,5
+White,M,96,3
+White,M,97,1
+White,M,98,5
+White,M,99,10
+White,X,,65
+White,X,16,1
+White,X,19,1
+White,X,20,1
+White,X,21,2
+White,X,23,5
+White,X,24,1
+White,X,25,5
+White,X,26,3
+White,X,27,4
+White,X,28,8
+White,X,29,3
+White,X,30,2
+White,X,31,2
+White,X,32,3
+White,X,33,3
+White,X,34,2
+White,X,36,3
+White,X,38,2
+White,X,39,1
+White,X,40,2
+White,X,41,1
+White,X,43,1
+White,X,46,1
+White,X,50,2
+White,X,51,1
+White,X,53,2
+White,X,58,1
+White,X,59,1
+White,X,75,1

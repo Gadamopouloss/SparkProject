@@ -1,0 +1,58 @@
+VictimSex,VictimDescentCode,VictimDescent,VictimID
+M,H,Hispanic-Latin-Mexican,0
+F,W,White,1
+F,G,Guamanian,2
+F,X,Unknown,3
+F,U,Hawaiian,4
+F,C,Chinese,5
+M,W,White,6
+M,U,Hawaiian,7
+M,B,Black,8
+F,H,Hispanic-Latin-Mexican,9
+F,K,Korean,10
+X,K,Korean,11
+F,O,Other,12
+M,K,Korean,13
+H,F,Filipino,14
+M,L,Laotian,15
+F,V,Vietnamese,16
+H,H,Hispanic-Latin-Mexican,17
+F,B,Black,18
+M,I,American Indian,19
+X,W,White,20
+F,D,Cambodian,21
+M,S,Samoan,22
+X,F,Filipino,23
+M,J,Japanese,24
+X,X,Unknown,25
+H,X,Unknown,26
+X,C,Chinese,27
+F,S,Samoan,28
+M,C,Chinese,29
+F,J,Japanese,30
+F,I,American Indian,31
+M,V,Vietnamese,32
+X,H,Hispanic-Latin-Mexican,33
+X,V,Vietnamese,34
+M,O,Other,35
+M,X,Unknown,36
+F,F,Filipino,37
+M,D,Cambodian,38
+X,O,Other,39
+M,P,Pacific Islander,40
+F,L,Laotian,41
+F,A,Other Asian,42
+X,A,Other Asian,43
+X,B,Black,44
+F,P,Pacific Islander,45
+F,Z,Asian Indian,46
+M,F,Filipino,47
+M,A,Other Asian,48
+M,Z,Asian Indian,49
+X,U,Hawaiian,50
+H,W,White,51
+H,O,Other,52
+M,G,Guamanian,53
+X,I,American Indian,54
+H,L,Laotian,55
+X,J,Japanese,56
