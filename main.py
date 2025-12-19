@@ -1,5 +1,3 @@
-## ADAMOPOULOS GRIGORIS p3312502
-
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, count, desc, asc, month, year, dayofmonth, monotonically_increasing_id
 from pyspark.sql.types import IntegerType, DoubleType, DateType
@@ -7,7 +5,7 @@ from pyspark.sql.types import IntegerType, DoubleType, DateType
 def main():
     # Arxikopoiisi Spark
     spark = SparkSession.builder \
-        .appName("CrimeProject_Adamopoulos") \
+        .appName("CrimeProject") \
         .master("local[*]") \
         .getOrCreate()
 
